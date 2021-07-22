@@ -1,0 +1,4946 @@
+[
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.a",
+        "indicator": "15.a.1",
+        "series": "DC_ODA_BDVDL",
+        "series_desc": "Total official development assistance for biodiversity, by donor countries (millions of constant 2018 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.b",
+        "indicator": "15.b.1",
+        "series": "DC_ODA_BDVDL",
+        "series_desc": "Total official development assistance for biodiversity, by donor countries (millions of constant 2018 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.b",
+        "indicator": "3.b.2",
+        "series": "DC_TOF_HLTHNT",
+        "series_desc": "Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.a",
+        "indicator": "9.a.1",
+        "series": "DC_TOF_INFRAL",
+        "series_desc": "Total official flows for infrastructure, by recipient countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.b",
+        "indicator": "4.b.1",
+        "series": "DC_TOF_SCHIPSL",
+        "series_desc": "Total official flows for scholarships, by recipient countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.a",
+        "indicator": "8.a.1",
+        "series": "DC_TOF_TRDCMDL",
+        "series_desc": "Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.a",
+        "indicator": "6.a.1",
+        "series": "DC_TOF_WASHL",
+        "series_desc": "Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.b",
+        "indicator": "10.b.1",
+        "series": "DC_TRF_TOTDL",
+        "series_desc": "Total assistance for development, by donor countries (millions of current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.4",
+        "indicator": "17.4.1",
+        "series": "DT_TDS_DECT",
+        "series_desc": "Debt service as a proportion of exports of goods and services (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "7",
+        "target": "7.1",
+        "indicator": "7.1.2",
+        "series": "EG_EGY_CLEAN",
+        "series_desc": "Proportion of population with primary reliance on clean fuels and technology (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.4",
+        "indicator": "9.4.1",
+        "series": "EN_ATM_CO2",
+        "series_desc": "Carbon dioxide emissions from fuel combustion (millions of tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.4",
+        "indicator": "9.4.1",
+        "series": "EN_ATM_CO2MVA",
+        "series_desc": "Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.6",
+        "indicator": "11.6.2",
+        "series": "EN_ATM_PM25",
+        "series_desc": "Annual mean levels of fine particulate matter (population-weighted), by location (micrograms per cubic meter)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.2",
+        "indicator": "12.2.1",
+        "series": "EN_MAT_FTPRPG",
+        "series_desc": "Material footprint per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollar)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.4",
+        "indicator": "8.4.1",
+        "series": "EN_MAT_FTPRPG",
+        "series_desc": "Material footprint per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollar)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.6",
+        "indicator": "15.6.1",
+        "series": "ER_CBD_SMTA",
+        "series_desc": "Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.5",
+        "indicator": "2.5.1",
+        "series": "ER_GRF_ANIMRCNTN",
+        "series_desc": "Number of local breeds for which sufficient genetic resources are stored for reconstitution"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.4",
+        "indicator": "14.4.1",
+        "series": "ER_H2O_FWTL",
+        "series_desc": "Proportion of fish stocks within biologically sustainable levels (not overexploited) (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.4",
+        "indicator": "6.4.2",
+        "series": "ER_H2O_STRESS",
+        "series_desc": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.4",
+        "indicator": "15.4.2",
+        "series": "ER_MTN_GRNCVI",
+        "series_desc": "Mountain Green Cover Index"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.b",
+        "indicator": "6.b.1",
+        "series": "ER_WAT_PROCED",
+        "series_desc": "Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water resources planning and management (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.10",
+        "indicator": "8.10.1",
+        "series": "FB_ATM_TOTL",
+        "series_desc": "Number of automated teller machines (ATMs) per 100,000 adults"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.10",
+        "indicator": "8.10.2",
+        "series": "FB_BNK_ACCSS",
+        "series_desc": "Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.5",
+        "indicator": "5.5.2",
+        "series": "IC_GEN_MGTL",
+        "series_desc": "Proportion of women in managerial positions (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.5",
+        "indicator": "5.5.2",
+        "series": "IC_GEN_MGTN",
+        "series_desc": "Proportion of women in senior and middle management positions (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.2",
+        "indicator": "9.2.1",
+        "series": "NV_IND_MANFPC",
+        "series_desc": "Manufacturing value added per capita (constant 2015 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.3",
+        "indicator": "4.3.1",
+        "series": "SE_ADT_EDUCTRN",
+        "series_desc": "Participation rate in formal and non-formal education and training, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.2",
+        "indicator": "4.2.2",
+        "series": "SE_PRE_PARTN",
+        "series_desc": "Participation rate in organized learning (one year before the official primary entry age), by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.a",
+        "indicator": "16.a.1",
+        "series": "SG_NHR_IMPL",
+        "series_desc": "Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.a",
+        "indicator": "16.a.1",
+        "series": "SG_NHR_IMPLN",
+        "series_desc": "Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.15",
+        "indicator": "17.15.1",
+        "series": "SG_PLN_PRVRIMON",
+        "series_desc": "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by provider (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.15",
+        "indicator": "17.15.1",
+        "series": "SG_PLN_RECRIMON",
+        "series_desc": "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.19",
+        "indicator": "17.19.2",
+        "series": "SG_REG_BRTH90",
+        "series_desc": "Proportion of countries with birth registration data that are at least 90 percent complete (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.19",
+        "indicator": "17.19.2",
+        "series": "SG_REG_DETH75",
+        "series_desc": "Proportion of countries with death registration data that are at least 75 percent complete (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.18",
+        "indicator": "17.18.3",
+        "series": "SG_STT_NSDSFDGVT",
+        "series_desc": "Countries with national statistical plans with funding from Government (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.4",
+        "indicator": "3.4.1",
+        "series": "SH_DTH_NCOM",
+        "series_desc": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.2",
+        "indicator": "3.2.1",
+        "series": "SH_DYN_IMRTN",
+        "series_desc": "Infant deaths (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.2",
+        "indicator": "3.2.1",
+        "series": "SH_DYN_MORT",
+        "series_desc": "Under-five mortality rate, by sex (deaths per 1,000 live births)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.2",
+        "indicator": "3.2.2",
+        "series": "SH_DYN_NMRTN",
+        "series_desc": "Neonatal deaths (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.1",
+        "indicator": "6.1.1",
+        "series": "SH_H2O_SAFE",
+        "series_desc": "Proportion of population using safely managed drinking water services, by urban/rural (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.9",
+        "indicator": "3.9.1",
+        "series": "SH_HAP_ASMORT",
+        "series_desc": "Age-standardized mortality rate attributed to household air pollution (deaths per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.3",
+        "indicator": "3.3.1",
+        "series": "SH_HIV_INCD",
+        "series_desc": "Number of new HIV infections per 1,000 uninfected population, by sex and age (per 1,000 uninfected population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.a",
+        "indicator": "3.a.1",
+        "series": "SH_PRV_SMOK",
+        "series_desc": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.9",
+        "indicator": "3.9.1",
+        "series": "SH_STA_AIRP",
+        "series_desc": "Crude death rate attributed to household and ambient air pollution (deaths per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.9",
+        "indicator": "3.9.1",
+        "series": "SH_STA_ASAIRP",
+        "series_desc": "Age-standardized mortality rate attributed to household and ambient air pollution (deaths per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.6",
+        "indicator": "3.6.1",
+        "series": "SH_STA_TRAF",
+        "series_desc": "Death rate due to road traffic injuries, by sex (per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.1",
+        "indicator": "10.1.1",
+        "series": "SI_HEI_TOTL",
+        "series_desc": "Growth rates of household expenditure or income per capita (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.a",
+        "indicator": "10.a.1",
+        "series": "TM_TRF_ZERO",
+        "series_desc": "Proportion of tariff lines applied to imports with zero-tariff (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.11",
+        "indicator": "17.11.1",
+        "series": "TX_IMP_GBMRCH",
+        "series_desc": "Developing countries\u2019 and least developed countries\u2019 share of global merchandise imports (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.3",
+        "indicator": "16.3.2",
+        "series": "VC_PRS_UNSNT",
+        "series_desc": "Unsentenced detainees as a proportion of overall prison population (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.10",
+        "indicator": "16.10.1",
+        "series": "VC_VAW_MTUHRA",
+        "series_desc": "Number of cases of killings of human rights defenders, journalists and trade unionists"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.2",
+        "indicator": "15.2.1",
+        "series": "AG_LND_FRSTBIOPHA",
+        "series_desc": "Above-ground biomass stock in forest (tonnes per hectare)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.1",
+        "indicator": "15.1.1",
+        "series": "AG_LND_TOTL",
+        "series_desc": "Land area (thousands of hectares)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.9",
+        "indicator": "17.9.1",
+        "series": "DC_FTA_TOTAL",
+        "series_desc": "Total official development assistance (gross disbursement) for technical cooperation (millions of 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.2",
+        "indicator": "17.2.1",
+        "series": "DC_ODA_SIDSG",
+        "series_desc": "Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "7",
+        "target": "7.3",
+        "indicator": "7.3.1",
+        "series": "EG_EGY_PRIM",
+        "series_desc": "Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.2",
+        "indicator": "12.2.2",
+        "series": "EN_MAT_DOMCMPT",
+        "series_desc": "Domestic material consumption, by type of raw material (tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.4",
+        "indicator": "8.4.2",
+        "series": "EN_MAT_DOMCMPT",
+        "series_desc": "Domestic material consumption, by type of raw material (tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.2",
+        "indicator": "12.2.1",
+        "series": "EN_MAT_FTPRPC",
+        "series_desc": "Material footprint per capita, by type of raw material (tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.4",
+        "indicator": "8.4.1",
+        "series": "EN_MAT_FTPRPC",
+        "series_desc": "Material footprint per capita, by type of raw material (tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.6",
+        "indicator": "15.6.1",
+        "series": "ER_CBD_NAGOYA",
+        "series_desc": "Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.5",
+        "indicator": "14.5.1",
+        "series": "ER_MRN_MARINT",
+        "series_desc": "Protected marine area (Exclusive Economic Zones) (square kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.10",
+        "indicator": "8.10.1",
+        "series": "FB_CBK_BRCH",
+        "series_desc": "Number of commercial bank branches per 100,000 adults"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.5",
+        "indicator": "9.5.2",
+        "series": "GB_POP_SCIERD",
+        "series_desc": "Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.5",
+        "indicator": "9.5.1",
+        "series": "GB_XPD_RSDV",
+        "series_desc": "Research and development expenditure as a proportion of GDP (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.5",
+        "indicator": "16.5.2",
+        "series": "IC_FRM_BRIB",
+        "series_desc": "Bribery incidence (% of firms experiencing at least one bribe payment request)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.5",
+        "indicator": "5.5.1",
+        "series": "SG_GEN_PARLN",
+        "series_desc": "Number of seats held by women in national parliaments (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.5",
+        "indicator": "5.5.1",
+        "series": "SG_GEN_PARLNT",
+        "series_desc": "Current number of seats in national parliaments (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.1",
+        "series": "SG_HAZ_CMRMNTRL",
+        "series_desc": "Parties meeting their commitments and obligations in transmitting information as required by Montreal Protocol on hazardous waste, and other chemicals"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.15",
+        "indicator": "17.15.1",
+        "series": "SG_PLN_PRVNDI",
+        "series_desc": "Proportion of project objectives of new development interventions drawn from country-led result frameworks - data by provider (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.15",
+        "indicator": "17.15.1",
+        "series": "SG_PLN_RECNDI",
+        "series_desc": "Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.9",
+        "indicator": "3.9.1",
+        "series": "SH_AAP_MORT",
+        "series_desc": "Crude death rate attributed to ambient air pollution (deaths per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.5",
+        "indicator": "3.5.2",
+        "series": "SH_ALC_CONSPT",
+        "series_desc": "Alcohol consumption per capita (aged 15 years and older) within a calendar year (litres of pure alcohol)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.2",
+        "indicator": "3.2.1",
+        "series": "SH_DYN_IMRT",
+        "series_desc": "Infant mortality rate (deaths per 1,000 live births)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.1",
+        "series": "SH_FPL_INFM",
+        "series_desc": "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.2",
+        "indicator": "6.2.1",
+        "series": "SH_SAN_HNDWSH",
+        "series_desc": "Proportion of population with basic handwashing facilities on premises, by urban/rural (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.3",
+        "indicator": "3.3.3",
+        "series": "SH_STA_MALR",
+        "series_desc": "Malaria incidence per 1,000 population at risk (per 1,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.9",
+        "indicator": "3.9.3",
+        "series": "SH_STA_POISN",
+        "series_desc": "Mortality rate attributed to unintentional poisonings, by sex (deaths per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.9",
+        "indicator": "3.9.2",
+        "series": "SH_STA_WASH",
+        "series_desc": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (deaths per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.3",
+        "indicator": "1.3.1",
+        "series": "SI_COV_MATNL",
+        "series_desc": "[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.3",
+        "indicator": "1.3.1",
+        "series": "SI_COV_POOR",
+        "series_desc": "[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.3",
+        "indicator": "1.3.1",
+        "series": "SI_COV_SOCAST",
+        "series_desc": "[World Bank] Proportion of population covered by social assistance programs (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.3",
+        "indicator": "1.3.1",
+        "series": "SI_COV_SOCINS",
+        "series_desc": "[World Bank] Proportion of population covered by social insurance programs (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.4",
+        "indicator": "5.4.1",
+        "series": "SL_DOM_TSPDCW",
+        "series_desc": "Proportion of time spent on unpaid care work, by sex, age and location (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.8",
+        "indicator": "8.8.1",
+        "series": "SL_EMP_FTLINJUR",
+        "series_desc": "Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.2",
+        "indicator": "9.2.2",
+        "series": "SL_TLF_MANF",
+        "series_desc": "Manufacturing employment as a proportion of total employment (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.5",
+        "indicator": "8.5.2",
+        "series": "SL_TLF_UEM",
+        "series_desc": "Unemployment rate, by sex and age (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.3",
+        "indicator": "5.3.1",
+        "series": "SP_DYN_MRBF18",
+        "series_desc": "Proportion of women aged 20-24 years who were married or in a union before age 18 (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.11",
+        "indicator": "17.11.1",
+        "series": "TX_EXP_GBMRCH",
+        "series_desc": "Developing countries\u2019 and least developed countries\u2019 share of global merchandise exports (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.11",
+        "indicator": "17.11.1",
+        "series": "TX_EXP_GBSVR",
+        "series_desc": "Developing countries\u2019 and least developed countries\u2019 share of global services exports (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.2",
+        "series": "VC_DSR_GDPLS",
+        "series_desc": "Direct economic loss attributed to disasters (current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_GDPLS",
+        "series_desc": "Direct economic loss attributed to disasters (current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.1",
+        "indicator": "16.1.1",
+        "series": "VC_IHR_PSRC",
+        "series_desc": "Number of victims of intentional homicide per 100,000 population, by sex (victims per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.2",
+        "indicator": "5.2.1",
+        "series": "VC_VAW_MARR",
+        "series_desc": "Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months, by age (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.2",
+        "indicator": "16.2.3",
+        "series": "VC_VAW_SXVLN",
+        "series_desc": "Proportion of population aged 18-29 years who experienced sexual violence by age\u00a018, by sex (% of population aged 18-29)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.2",
+        "indicator": "15.2.1",
+        "series": "AG_LND_FRSTCERT",
+        "series_desc": "Forest area under an independently verified forest management certification scheme (thousands of hectares)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.1",
+        "indicator": "15.1.1",
+        "series": "AG_LND_FRSTN",
+        "series_desc": "Forest area (thousands of hectares)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.a",
+        "indicator": "2.a.1",
+        "series": "AG_PRD_ORTIND",
+        "series_desc": "Agriculture orientation index for government expenditures"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.b",
+        "indicator": "2.b.1",
+        "series": "AG_PRD_XSUBDY",
+        "series_desc": "Agricultural export subsidies (millions of current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.3",
+        "indicator": "17.3.2",
+        "series": "BX_TRF_PWKR",
+        "series_desc": "Volume of remittances (in United States dollars) as a proportion of total GDP (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.a",
+        "indicator": "15.a.1",
+        "series": "DC_ODA_BDVL",
+        "series_desc": "Total official development assistance for biodiversity, by recipient countries (millions of constant 2018 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.b",
+        "indicator": "15.b.1",
+        "series": "DC_ODA_BDVL",
+        "series_desc": "Total official development assistance for biodiversity, by recipient countries (millions of constant 2018 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.2",
+        "indicator": "17.2.1",
+        "series": "DC_ODA_LDCG",
+        "series_desc": "Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.2",
+        "indicator": "17.2.1",
+        "series": "DC_ODA_LLDC",
+        "series_desc": "Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.2",
+        "indicator": "17.2.1",
+        "series": "DC_ODA_SIDS",
+        "series_desc": "Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.a",
+        "indicator": "2.a.2",
+        "series": "DC_TOF_AGRL",
+        "series_desc": "Total official flows (disbursements) for agriculture, by recipient countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.b",
+        "indicator": "3.b.2",
+        "series": "DC_TOF_HLTHL",
+        "series_desc": "Total official development assistance to medical research and basic heath sectors, gross disbursement, by recipient countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.a",
+        "indicator": "8.a.1",
+        "series": "DC_TOF_TRDDBMDL",
+        "series_desc": "Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.a",
+        "indicator": "8.a.1",
+        "series": "DC_TOF_TRDDBML",
+        "series_desc": "Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.2",
+        "indicator": "12.2.2",
+        "series": "EN_MAT_DOMCMPG",
+        "series_desc": "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.4",
+        "indicator": "8.4.2",
+        "series": "EN_MAT_DOMCMPG",
+        "series_desc": "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2010 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.2",
+        "indicator": "12.2.1",
+        "series": "EN_MAT_FTPRTN",
+        "series_desc": "Material footprint, by type of raw material (tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.4",
+        "indicator": "8.4.1",
+        "series": "EN_MAT_FTPRTN",
+        "series_desc": "Material footprint, by type of raw material (tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.6",
+        "indicator": "15.6.1",
+        "series": "ER_CBD_ABSCLRHS",
+        "series_desc": "Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.6",
+        "indicator": "15.6.1",
+        "series": "ER_CBD_ORSPGRFA",
+        "series_desc": "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.5",
+        "indicator": "2.5.1",
+        "series": "ER_GRF_PLNTSTOR",
+        "series_desc": "Plant genetic resources accessions stored ex situ (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.b",
+        "indicator": "6.b.1",
+        "series": "ER_H2O_PARTIC",
+        "series_desc": "Proportion of countries with high level of users/communities participating in planning programs in rural drinking-water supply (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.5",
+        "indicator": "14.5.1",
+        "series": "ER_MRN_MARIN",
+        "series_desc": "Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.c",
+        "indicator": "9.c.1",
+        "series": "IT_MOB_2GNTWK",
+        "series_desc": "Proportion of population covered by at least a 2G mobile network (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.c",
+        "indicator": "9.c.1",
+        "series": "IT_MOB_3GNTWK",
+        "series_desc": "Proportion of population covered by at least a 3G mobile network (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.c",
+        "indicator": "9.c.1",
+        "series": "IT_MOB_4GNTWK",
+        "series_desc": "Proportion of population covered by at least a 4G mobile network (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.8",
+        "indicator": "17.8.1",
+        "series": "IT_USE_ii99",
+        "series_desc": "Internet users per 100 inhabitants"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.2",
+        "indicator": "9.2.1",
+        "series": "NV_IND_MANF",
+        "series_desc": "Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.2",
+        "indicator": "4.2.1",
+        "series": "SE_DEV_ONTRK",
+        "series_desc": "Proportion of children aged 36\u221259 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning (% of children aged 36-59 months)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.1",
+        "series": "SG_HAZ_CMRROTDAM",
+        "series_desc": "Parties meeting their commitments and obligations in transmitting information as required by Rotterdam Convention on hazardous waste, and other chemicals"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.10",
+        "indicator": "16.10.2",
+        "series": "SG_INF_ACCSS",
+        "series_desc": "Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.a",
+        "indicator": "16.a.1",
+        "series": "SG_NHR_INTEXST",
+        "series_desc": "Proportion of countries that applied for accreditation as independent National Human Rights Institutions in compliance with the Paris Principles (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.a",
+        "indicator": "16.a.1",
+        "series": "SG_NHR_NOSTUSN",
+        "series_desc": "Countries with National Human Rights Institutions and no status with the Paris Principles, C status (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.9",
+        "indicator": "16.9.1",
+        "series": "SG_REG_BRTH",
+        "series_desc": "Proportion of children under 5 years of age whose births have been registered with a civil authority (% of children under 5 years of age)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.19",
+        "indicator": "17.19.2",
+        "series": "SG_REG_CENSUS",
+        "series_desc": "Proportion of countries that have conducted at least one population and housing census in the last 10 years (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.19",
+        "indicator": "17.19.2",
+        "series": "SG_REG_CENSUSN",
+        "series_desc": "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.18",
+        "indicator": "17.18.2",
+        "series": "SG_STT_FPOS",
+        "series_desc": "Countries with national statistical legislation exists that complies with the Fundamental Principles of Official Statistics (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.18",
+        "indicator": "17.18.3",
+        "series": "SG_STT_NSDSFDDNR",
+        "series_desc": "Countries with national statistical plans with funding from donors (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.18",
+        "indicator": "17.18.3",
+        "series": "SG_STT_NSDSFDOTHR",
+        "series_desc": "Countries with national statistical plans with funding from others (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.18",
+        "indicator": "17.18.3",
+        "series": "SG_STT_NSDSIMPL",
+        "series_desc": "Countries with national statistical plans that are under implementation (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.9",
+        "indicator": "3.9.1",
+        "series": "SH_AAP_ASMORT",
+        "series_desc": "Age-standardized mortality rate attributed to ambient air pollution (deaths per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.2",
+        "indicator": "3.2.2",
+        "series": "SH_DYN_NMRT",
+        "series_desc": "Neonatal mortality rate (deaths per 1,000 live births)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.2",
+        "indicator": "6.2.1",
+        "series": "SH_SAN_SAFE",
+        "series_desc": "Proportion of population using safely managed sanitation services, by urban/rural (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.1",
+        "indicator": "3.1.2",
+        "series": "SH_STA_BRTC",
+        "series_desc": "Proportion of births attended by skilled health personnel (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.4",
+        "indicator": "3.4.2",
+        "series": "SH_STA_SCIDE",
+        "series_desc": "Suicide mortality rate, by sex (deaths per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.4",
+        "indicator": "3.4.2",
+        "series": "SH_STA_SCIDEN",
+        "series_desc": "Number of deaths attributed to suicide, by sex (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.3",
+        "indicator": "1.3.1",
+        "series": "SI_COV_CHLD",
+        "series_desc": "[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.3",
+        "indicator": "1.3.1",
+        "series": "SI_COV_UEMP",
+        "series_desc": "[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.3",
+        "indicator": "1.3.1",
+        "series": "SI_COV_VULN",
+        "series_desc": "[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.3",
+        "indicator": "1.3.1",
+        "series": "SI_COV_WKINJRY",
+        "series_desc": "[ILO] Proportion of employed population covered in the event of work injury, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.1",
+        "indicator": "1.1.1",
+        "series": "SI_POV_DAY1",
+        "series_desc": "Proportion of population below international poverty line (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.c",
+        "indicator": "10.c.1",
+        "series": "SI_RMT_COST",
+        "series_desc": "Remittance costs as a proportion of the amount remitted (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.4",
+        "indicator": "5.4.1",
+        "series": "SL_DOM_TSPDDC",
+        "series_desc": "Proportion of time spent on unpaid domestic chores, by sex, age and location (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.4",
+        "indicator": "10.4.1",
+        "series": "SL_EMP_GTOTL",
+        "series_desc": "Labour share of GDP (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.1",
+        "indicator": "2.1.1",
+        "series": "SN_ITK_DEFC",
+        "series_desc": "Prevalence of undernourishment (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.1",
+        "series": "VC_DSR_MISS",
+        "series_desc": "Number of missing persons due to disaster (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.1",
+        "series": "VC_DSR_MISS",
+        "series_desc": "Number of missing persons due to disaster (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.1",
+        "series": "VC_DSR_MISS",
+        "series_desc": "Number of missing persons due to disaster (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.1",
+        "indicator": "15.1.1",
+        "series": "AG_LND_FRST",
+        "series_desc": "Forest area as a proportion of total land area (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.2",
+        "indicator": "15.2.1",
+        "series": "AG_LND_FRSTCHG",
+        "series_desc": "Forest area annual net change rate (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.2",
+        "indicator": "15.2.1",
+        "series": "AG_LND_FRSTMGT",
+        "series_desc": "Proportion of forest area under a long-term management plan (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.2",
+        "indicator": "15.2.1",
+        "series": "AG_LND_FRSTPRCT",
+        "series_desc": "Proportion of forest area within legally established protected areas (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.2",
+        "indicator": "17.2.1",
+        "series": "DC_ODA_LDCS",
+        "series_desc": "Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.2",
+        "indicator": "17.2.1",
+        "series": "DC_ODA_LLDCG",
+        "series_desc": "Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI, by donor countries (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.2",
+        "indicator": "17.2.1",
+        "series": "DC_ODA_TOTG",
+        "series_desc": "Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI, by donor countries (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.2",
+        "indicator": "17.2.1",
+        "series": "DC_ODA_TOTL",
+        "series_desc": "Net official development assistance (ODA) from OECD-DAC countries, by donor countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.a",
+        "indicator": "8.a.1",
+        "series": "DC_TOF_TRDCML",
+        "series_desc": "Total official flows (commitments) for Aid for Trade, by recipient countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.b",
+        "indicator": "10.b.1",
+        "series": "DC_TRF_TOTL",
+        "series_desc": "Total assistance for development, by recipient countries (millions of current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "7",
+        "target": "7.1",
+        "indicator": "7.1.1",
+        "series": "EG_ACS_ELEC",
+        "series_desc": "Proportion of population with access to electricity, by urban/rural (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "7",
+        "target": "7.2",
+        "indicator": "7.2.1",
+        "series": "EG_FEC_RNEW",
+        "series_desc": "Renewable energy share in the total final energy consumption (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.4",
+        "indicator": "9.4.1",
+        "series": "EN_ATM_CO2GDP",
+        "series_desc": "Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2017 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.1",
+        "indicator": "11.1.1",
+        "series": "EN_LND_SLUM",
+        "series_desc": "Proportion of urban population living in slums (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.2",
+        "indicator": "12.2.2",
+        "series": "EN_MAT_DOMCMPC",
+        "series_desc": "Domestic material consumption per capita, by type of raw material (tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.4",
+        "indicator": "8.4.2",
+        "series": "EN_MAT_DOMCMPC",
+        "series_desc": "Domestic material consumption per capita, by type of raw material (tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.6",
+        "indicator": "15.6.1",
+        "series": "ER_CBD_PTYPGRFA",
+        "series_desc": "Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.b",
+        "indicator": "6.b.1",
+        "series": "ER_H2O_PROCED",
+        "series_desc": "Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.b",
+        "indicator": "6.b.1",
+        "series": "ER_WAT_PARTIC",
+        "series_desc": "Proportion of countries with high level of users/communities participating in planning programs in water resources planning and management (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.b",
+        "indicator": "5.b.1",
+        "series": "IT_MOB_OWN",
+        "series_desc": "Proportion of individuals who own a mobile telephone, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.b",
+        "indicator": "9.b.1",
+        "series": "NV_IND_TECH",
+        "series_desc": "Proportion of medium and high-tech manufacturing value added in total value added (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.1",
+        "indicator": "8.1.1",
+        "series": "NY_GDP_PCAP",
+        "series_desc": "Annual growth rate of real GDP per capita (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_GPI_PTNPRE",
+        "series_desc": "Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.5",
+        "indicator": "5.5.1",
+        "series": "SG_GEN_PARL",
+        "series_desc": "Proportion of seats held by women in national parliaments (% of total number of seats)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.1",
+        "series": "SG_HAZ_CMRBASEL",
+        "series_desc": "Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste, and other chemicals"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.1",
+        "series": "SG_HAZ_CMRSTHOLM",
+        "series_desc": "Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste, and other chemicals"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.a",
+        "indicator": "16.a.1",
+        "series": "SG_NHR_INTEXSTN",
+        "series_desc": "Countries with National Human Rights Institutions not fully compliant with the Paris Principles, B status (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.a",
+        "indicator": "16.a.1",
+        "series": "SG_NHR_NOAPPLN",
+        "series_desc": "Countries with no application for accreditation with the Paris Principles, D status  (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.15",
+        "indicator": "17.15.1",
+        "series": "SG_PLN_PRVRICTRY",
+        "series_desc": "Proportion of results indicators drawn from country-led results frameworks - data by provider (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.15",
+        "indicator": "17.15.1",
+        "series": "SG_PLN_RECRICTRY",
+        "series_desc": "Proportion of results indicators drawn from country-led results frameworks - data by recipient (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.19",
+        "indicator": "17.19.2",
+        "series": "SG_REG_BRTH90N",
+        "series_desc": "Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.19",
+        "indicator": "17.19.2",
+        "series": "SG_REG_DETH75N",
+        "series_desc": "Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.19",
+        "indicator": "17.19.1",
+        "series": "SG_STT_CAPTY",
+        "series_desc": "Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.18",
+        "indicator": "17.18.3",
+        "series": "SG_STT_NSDSFND",
+        "series_desc": "Countries with national statistical plans that are fully funded (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.2",
+        "indicator": "3.2.1",
+        "series": "SH_DYN_MORTN",
+        "series_desc": "Under-five deaths (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.7",
+        "indicator": "3.7.1",
+        "series": "SH_FPL_MTMM",
+        "series_desc": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (% of women aged 15-49 years)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.9",
+        "indicator": "3.9.1",
+        "series": "SH_HAP_MORT",
+        "series_desc": "Crude death rate attributed to household air pollution (deaths per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.2",
+        "indicator": "6.2.1",
+        "series": "SH_SAN_DEFECT",
+        "series_desc": "Proportion of population practicing open defecation, by urban/rural (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.3",
+        "indicator": "5.3.2",
+        "series": "SH_STA_FGMS",
+        "series_desc": "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.3",
+        "indicator": "3.3.5",
+        "series": "SH_TRP_INTVN",
+        "series_desc": "Number of people requiring interventions against neglected tropical diseases (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.3",
+        "indicator": "1.3.1",
+        "series": "SI_COV_BENFTS",
+        "series_desc": "[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.3",
+        "indicator": "1.3.1",
+        "series": "SI_COV_DISAB",
+        "series_desc": "[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.3",
+        "indicator": "1.3.1",
+        "series": "SI_COV_LMKT",
+        "series_desc": "[World Bank] Proportion of population covered by labour market programs (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.3",
+        "indicator": "1.3.1",
+        "series": "SI_COV_PENSN",
+        "series_desc": "[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.1",
+        "indicator": "1.1.1",
+        "series": "SI_POV_EMP1",
+        "series_desc": "Employed population below international poverty line, by sex and age (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.2",
+        "indicator": "1.2.1",
+        "series": "SI_POV_NAHC",
+        "series_desc": "Proportion of population living below the national poverty line (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.4",
+        "indicator": "5.4.1",
+        "series": "SL_DOM_TSPD",
+        "series_desc": "Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.8",
+        "indicator": "8.8.1",
+        "series": "SL_EMP_INJUR",
+        "series_desc": "Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.2",
+        "indicator": "8.2.1",
+        "series": "SL_EMP_PCAP",
+        "series_desc": "Annual growth rate of real GDP per employed person (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.6",
+        "indicator": "8.6.1",
+        "series": "SL_TLF_NEET",
+        "series_desc": "Proportion of youth not in education, employment or training, by sex and age (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.7",
+        "indicator": "3.7.2",
+        "series": "SP_DYN_ADKL",
+        "series_desc": "Adolescent birth rate (per 1,000 women aged 15-19 years)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.3",
+        "indicator": "5.3.1",
+        "series": "SP_DYN_MRBF15",
+        "series_desc": "Proportion of women aged 20-24 years who were married or in a union before age 15 (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.11",
+        "indicator": "17.11.1",
+        "series": "TX_IMP_GBSVR",
+        "series_desc": "Developing countries\u2019 and least developed countries\u2019 share of global services imports (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.1",
+        "series": "VC_DSR_AFFCT",
+        "series_desc": "Number of people affected by disaster (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.1",
+        "series": "VC_DSR_AFFCT",
+        "series_desc": "Number of people affected by disaster (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.1",
+        "series": "VC_DSR_AFFCT",
+        "series_desc": "Number of people affected by disaster (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.1",
+        "series": "VC_DSR_MORT",
+        "series_desc": "Number of deaths due to disaster (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.1",
+        "series": "VC_DSR_MORT",
+        "series_desc": "Number of deaths due to disaster (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.1",
+        "series": "VC_DSR_MORT",
+        "series_desc": "Number of deaths due to disaster (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.1",
+        "indicator": "16.1.1",
+        "series": "VC_IHR_PSRCN",
+        "series_desc": "Number of victims of intentional homicide, by sex (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.2",
+        "indicator": "16.2.1",
+        "series": "VC_VAW_PHYPYV",
+        "series_desc": "Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month (% of children aged 1-14 years)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.c",
+        "indicator": "2.c.1",
+        "series": "AG_FPA_COMM",
+        "series_desc": "Indicator of Food Price Anomalies (IFPA), by type of product"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.1",
+        "indicator": "2.1.2",
+        "series": "AG_PRD_FIESMS",
+        "series_desc": "Prevalence of moderate or severe food insecurity in the adult population (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.1",
+        "indicator": "2.1.2",
+        "series": "AG_PRD_FIESMSN",
+        "series_desc": "Total population in moderate or severe food insecurity (thousands of people)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.1",
+        "indicator": "2.1.2",
+        "series": "AG_PRD_FIESS",
+        "series_desc": "Prevalence of severe food insecurity in the adult population (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.1",
+        "indicator": "2.1.2",
+        "series": "AG_PRD_FIESSN",
+        "series_desc": "Total population in severe food insecurity (thousands of people)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.6",
+        "indicator": "11.6.1",
+        "series": "EN_REF_WASCOL",
+        "series_desc": "Municipal Solid Waste collection coverage, by cities (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.1",
+        "indicator": "15.1.2",
+        "series": "ER_PTD_FRHWTR",
+        "series_desc": "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.4",
+        "indicator": "15.4.1",
+        "series": "ER_PTD_MTN",
+        "series_desc": "Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.1",
+        "indicator": "15.1.2",
+        "series": "ER_PTD_TERR",
+        "series_desc": "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.5",
+        "indicator": "15.5.1",
+        "series": "ER_RSK_LST",
+        "series_desc": "Red List Index"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.1",
+        "indicator": "9.1.2",
+        "series": "IS_RDP_FRGVOL",
+        "series_desc": "Freight volume, by mode of transport (tonne kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.1",
+        "indicator": "9.1.2",
+        "series": "IS_RDP_PFVOL",
+        "series_desc": "Passenger volume (passenger kilometres), by mode of transport"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.6",
+        "indicator": "17.6.1",
+        "series": "IT_NET_BBNDN",
+        "series_desc": "Number of fixed Internet broadband subscriptions, by speed (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.6",
+        "indicator": "17.6.1",
+        "series": "IT_NET_BBND",
+        "series_desc": "Fixed Internet broadband subscriptions per 100\u00a0inhabitants, by speed (per 100 inhabitants)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.a",
+        "indicator": "4.a.1",
+        "series": "SE_ACS_CMPTR",
+        "series_desc": "Proportion of schools with access to\u00a0computers for pedagogical purposes, by education level (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.a",
+        "indicator": "4.a.1",
+        "series": "SE_ACS_H2O",
+        "series_desc": "Proportion of schools with access to basic drinking water, by education level (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.a",
+        "indicator": "4.a.1",
+        "series": "SE_ACS_ELECT",
+        "series_desc": "Proportion of schools with access to\u00a0electricity, by education level (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.a",
+        "indicator": "4.a.1",
+        "series": "SE_ACC_HNDWSH",
+        "series_desc": "Proportion of schools with basic handwashing facilities, by education level (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.a",
+        "indicator": "4.a.1",
+        "series": "SE_ACS_INTNT",
+        "series_desc": "Proportion of schools with access to the internet for pedagogical purposes, by education level (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.a",
+        "indicator": "4.a.1",
+        "series": "SE_ACS_SANIT",
+        "series_desc": "Proportion of schools with access to\u00a0access to single-sex basic sanitation, by education level (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.4",
+        "indicator": "4.4.1",
+        "series": "SE_ADT_ACTS",
+        "series_desc": "Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_GPI_TCAQ",
+        "series_desc": "Adjusted gender parity index for the proportion of teachers with the minimum required qualifications, by education level (ratio)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.c",
+        "indicator": "4.c.1",
+        "series": "SE_TRA_GRDL",
+        "series_desc": "Proportion of teachers with the minimum required qualifications, by education level and sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.6",
+        "indicator": "10.6.1",
+        "series": "SG_INT_MBRDEV",
+        "series_desc": "Proportion of members of developing countries in international organizations, by organization (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.8",
+        "indicator": "16.8.1",
+        "series": "SG_INT_MBRDEV",
+        "series_desc": "Proportion of members of developing countries in international organizations, by organization (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.6",
+        "indicator": "10.6.1",
+        "series": "SG_INT_VRTDEV",
+        "series_desc": "Proportion of voting rights of developing countries in international organizations, by organization (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.8",
+        "indicator": "16.8.1",
+        "series": "SG_INT_VRTDEV",
+        "series_desc": "Proportion of voting rights of developing countries in international organizations, by organization (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.4",
+        "indicator": "3.4.1",
+        "series": "SH_DTH_NCD",
+        "series_desc": "Number of deaths attributed to non-communicable diseases, by type of disease and sex (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.c",
+        "indicator": "3.c.1",
+        "series": "SH_MED_DEN",
+        "series_desc": "Health worker density, by type of occupation (per 10,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.1",
+        "indicator": "3.1.1",
+        "series": "SH_STA_MORT",
+        "series_desc": "Maternal mortality ratio"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.2",
+        "indicator": "2.2.1",
+        "series": "SH_STA_STNT",
+        "series_desc": "Proportion of children moderately or severely stunted (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.2",
+        "indicator": "2.2.1",
+        "series": "SH_STA_STNTN",
+        "series_desc": "Children moderately or severely stunted (thousands)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.2",
+        "indicator": "2.2.2",
+        "series": "SH_STA_WAST",
+        "series_desc": "Proportion of children moderately or severely wasted (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.2",
+        "indicator": "2.2.2",
+        "series": "SH_STA_WASTN",
+        "series_desc": "Children moderately or severely wasted (thousands)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.3",
+        "indicator": "3.3.2",
+        "series": "SH_TBS_INCD",
+        "series_desc": "Tuberculosis incidence (per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.5",
+        "indicator": "8.5.1",
+        "series": "SL_EMP_EARN",
+        "series_desc": "Average hourly earnings of employees by sex and occupation (local currency)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.2",
+        "indicator": "2.2.2",
+        "series": "SN_STA_OVWGT",
+        "series_desc": "Proportion of children moderately or severely overweight (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.2",
+        "indicator": "2.2.2",
+        "series": "SN_STA_OVWGTN",
+        "series_desc": "Children moderately or severely overweight (thousands)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.3",
+        "indicator": "6.3.2",
+        "series": "EN_H2O_OPAMBQ",
+        "series_desc": "Proportion of open water bodies with good ambient water quality (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.6",
+        "indicator": "4.6.1",
+        "series": "SE_ADT_FUNS",
+        "series_desc": "Proportion of population achieving at least a fixed level of proficiency in functional skills, by sex, age and type of skill (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.8",
+        "indicator": "3.8.2",
+        "series": "SH_XPD_EARN25",
+        "series_desc": "Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.8",
+        "indicator": "3.8.2",
+        "series": "SH_XPD_EARN10",
+        "series_desc": "Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_GPI_PART",
+        "series_desc": "Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_GPI_ICTS",
+        "series_desc": "Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_IMP_FPOF",
+        "series_desc": "Adjusted immigration status parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.a",
+        "indicator": "4.a.1",
+        "series": "SE_INF_DSBL",
+        "series_desc": "Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.7",
+        "indicator": "8.7.1",
+        "series": "SL_TLF_CHLDEC",
+        "series_desc": "Proportion of children engaged in economic activity and household chores, by sex and age (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.7",
+        "indicator": "8.7.1",
+        "series": "SL_TLF_CHLDEA",
+        "series_desc": "Proportion of children engaged in economic activity, by sex and age  (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.b",
+        "indicator": "10.b.1",
+        "series": "DC_TRF_TFDV",
+        "series_desc": "Total resource flows for development, by recipient and donor countries (millions of current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.5",
+        "indicator": "6.5.2",
+        "series": "EG_TBA_H2CO",
+        "series_desc": "Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.5",
+        "indicator": "6.5.2",
+        "series": "EG_TBA_H2COAQ",
+        "series_desc": "Proportion of transboundary aquifers with an operational arrangement for water cooperation (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.5",
+        "indicator": "6.5.2",
+        "series": "EG_TBA_H2CORL",
+        "series_desc": "Proportion of transboundary river and lake basins with an operational arrangement for water cooperation (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.b",
+        "indicator": "6.b.1",
+        "series": "ER_H2O_RURP",
+        "series_desc": "Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.b",
+        "indicator": "6.b.1",
+        "series": "ER_H2O_PRDU",
+        "series_desc": "Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.b",
+        "indicator": "6.b.1",
+        "series": "ER_WAT_PART",
+        "series_desc": "Countries with users/communities participating in planning programs in water resources planning and management, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.b",
+        "indicator": "6.b.1",
+        "series": "ER_WAT_PRDU",
+        "series_desc": "Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.3",
+        "indicator": "9.3.1",
+        "series": "NV_IND_SSIS",
+        "series_desc": "Proportion of small-scale industries in total industry value added (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.3",
+        "indicator": "9.3.2",
+        "series": "FC_ACC_SSID",
+        "series_desc": "Proportion of small-scale industries with a loan or line of credit (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.8",
+        "indicator": "3.8.1",
+        "series": "SH_ACS_UNHC",
+        "series_desc": "Universal health coverage (UHC) service coverage index"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.a",
+        "indicator": "1.a.2",
+        "series": "SD_XPD_ESED",
+        "series_desc": "Proportion of total government spending on essential services, education (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.b",
+        "indicator": "3.b.1",
+        "series": "SH_ACS_DTP3",
+        "series_desc": "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.b",
+        "indicator": "3.b.1",
+        "series": "SH_ACS_MCV2",
+        "series_desc": "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.b",
+        "indicator": "3.b.1",
+        "series": "SH_ACS_PCV3",
+        "series_desc": "Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.1",
+        "series": "VC_DSR_MTMP",
+        "series_desc": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.1",
+        "series": "VC_DSR_MTMP",
+        "series_desc": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.1",
+        "series": "VC_DSR_MTMP",
+        "series_desc": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.1",
+        "series": "VC_DSR_MMHN",
+        "series_desc": "Number of deaths and missing persons attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.1",
+        "series": "VC_DSR_MMHN",
+        "series_desc": "Number of deaths and missing persons attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.1",
+        "series": "VC_DSR_MMHN",
+        "series_desc": "Number of deaths and missing persons attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.1",
+        "series": "VC_DSR_DAFF",
+        "series_desc": "Number of directly affected persons attributed to disasters per 100,000 population (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.1",
+        "series": "VC_DSR_DAFF",
+        "series_desc": "Number of directly affected persons attributed to disasters per 100,000 population (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.1",
+        "series": "VC_DSR_DAFF",
+        "series_desc": "Number of directly affected persons attributed to disasters per 100,000 population (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.1",
+        "series": "VC_DSR_IJILN",
+        "series_desc": "Number of injured or ill people attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.1",
+        "series": "VC_DSR_IJILN",
+        "series_desc": "Number of injured or ill people attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.1",
+        "series": "VC_DSR_IJILN",
+        "series_desc": "Number of injured or ill people attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.1",
+        "series": "VC_DSR_PDAN",
+        "series_desc": "Number of people whose damaged dwellings were attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.1",
+        "series": "VC_DSR_PDAN",
+        "series_desc": "Number of people whose damaged dwellings were attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.1",
+        "series": "VC_DSR_PDAN",
+        "series_desc": "Number of people whose damaged dwellings were attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.1",
+        "series": "VC_DSR_PDYN",
+        "series_desc": "Number of people whose destroyed dwellings were attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.1",
+        "series": "VC_DSR_PDYN",
+        "series_desc": "Number of people whose destroyed dwellings were attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.1",
+        "series": "VC_DSR_PDYN",
+        "series_desc": "Number of people whose destroyed dwellings were attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.1",
+        "series": "VC_DSR_PDLN",
+        "series_desc": "Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.1",
+        "series": "VC_DSR_PDLN",
+        "series_desc": "Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.1",
+        "series": "VC_DSR_PDLN",
+        "series_desc": "Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.3",
+        "series": "SG_DSR_LGRGSR",
+        "series_desc": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.b",
+        "indicator": "11.b.1",
+        "series": "SG_DSR_LGRGSR",
+        "series_desc": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.2",
+        "series": "SG_DSR_LGRGSR",
+        "series_desc": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.4",
+        "series": "SG_DSR_SILS",
+        "series_desc": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.3",
+        "series": "SG_DSR_SILS",
+        "series_desc": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.b",
+        "indicator": "11.b.2",
+        "series": "SG_DSR_SILS",
+        "series_desc": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.4",
+        "series": "SG_DSR_SILN",
+        "series_desc": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.3",
+        "series": "SG_DSR_SILN",
+        "series_desc": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.b",
+        "indicator": "11.b.2",
+        "series": "SG_DSR_SILN",
+        "series_desc": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.4",
+        "series": "SG_GOV_LOGV",
+        "series_desc": "Number of local governments (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.3",
+        "series": "SG_GOV_LOGV",
+        "series_desc": "Number of local governments (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.b",
+        "indicator": "11.b.2",
+        "series": "SG_GOV_LOGV",
+        "series_desc": "Number of local governments (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.2",
+        "series": "VC_DSR_LSGP",
+        "series_desc": "Direct economic loss attributed to disasters relative to GDP (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_LSGP",
+        "series_desc": "Direct economic loss attributed to disasters relative to GDP (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.2",
+        "series": "VC_DSR_AGLH",
+        "series_desc": "Direct agriculture loss attributed to disasters (current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_AGLH",
+        "series_desc": "Direct agriculture loss attributed to disasters (current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.2",
+        "series": "VC_DSR_HOLH",
+        "series_desc": "Direct economic loss in the housing sector attributed to disasters (current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_HOLH",
+        "series_desc": "Direct economic loss in the housing sector attributed to disasters (current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.2",
+        "series": "VC_DSR_CILN",
+        "series_desc": "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_CILN",
+        "series_desc": "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.2",
+        "series": "VC_DSR_CHLN",
+        "series_desc": "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_CHLN",
+        "series_desc": "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_CDAN",
+        "series_desc": "Number of damaged critical infrastructure attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_HFDN",
+        "series_desc": "Number of destroyed or damaged health facilities attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_EFDN",
+        "series_desc": "Number of destroyed or damaged educational facilities attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_CDYN",
+        "series_desc": "Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_BSDN",
+        "series_desc": "Number of disruptions to basic services attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_ESDN",
+        "series_desc": "Number of disruptions to educational services attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_HSDN",
+        "series_desc": "Number of disruptions to health services attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_OBDN",
+        "series_desc": "Number of disruptions to other basic services attributed to disasters (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.5",
+        "indicator": "6.5.1",
+        "series": "ER_H2O_IWRMD",
+        "series_desc": "Degree of integrated water resources management implementation (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.2",
+        "indicator": "9.2.1",
+        "series": "NV_IND_MANF_CD",
+        "series_desc": "Manufacturing value added (current United States dollars) as a proportion of GDP (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.5",
+        "indicator": "6.5.1",
+        "series": "ER_H2O_IWRMP",
+        "series_desc": "Proportion of countries by IWRM implementation category (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.d",
+        "indicator": "3.d.1",
+        "series": "SH_IHR_CAPS",
+        "series_desc": "International Health Regulations (IHR) capacity, by type of IHR capacity (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.3",
+        "indicator": "6.3.2",
+        "series": "EN_H2O_RVAMBQ",
+        "series_desc": "Proportion of river water bodies with good ambient water quality (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.3",
+        "indicator": "6.3.2",
+        "series": "EN_H2O_GRAMBQ",
+        "series_desc": "Proportion of groundwater bodies with good ambient water quality (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.3",
+        "indicator": "6.3.2",
+        "series": "EN_H2O_WBAMBQ",
+        "series_desc": "Proportion of bodies of water with good ambient water quality (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_NDQTGRW",
+        "series_desc": "Nationally derived quantity of groundwater (millions of cubic metres per annum)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_NDQTRVR",
+        "series_desc": "Nationally derived quantity of rivers (million of cubic metres per annum)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.3",
+        "indicator": "3.3.4",
+        "series": "SH_HAP_HBSAG",
+        "series_desc": "Prevalence of hepatitis B surface antigen (HBsAg) (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.a",
+        "indicator": "14.a.1",
+        "series": "ER_RDE_OSEX",
+        "series_desc": "National ocean science expenditure as a share of total research and development funding (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.5",
+        "indicator": "14.5.1",
+        "series": "ER_MRN_MPA",
+        "series_desc": "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.15",
+        "indicator": "17.15.1",
+        "series": "SG_PLN_REPOLRES",
+        "series_desc": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient (%) "
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.15",
+        "indicator": "17.15.1",
+        "series": "SG_PLN_PRPOLRES",
+        "series_desc": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%) "
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.6",
+        "indicator": "16.6.1",
+        "series": "GF_XPD_GBPC",
+        "series_desc": "Primary government expenditures as a proportion of original approved budget (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.1",
+        "indicator": "12.1.1",
+        "series": "SG_SCP_CNTRY",
+        "series_desc": "Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.1",
+        "indicator": "12.1.1",
+        "series": "SG_SCP_CORMEC",
+        "series_desc": "Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.1",
+        "indicator": "12.1.1",
+        "series": "SG_SCP_POLINS",
+        "series_desc": "Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.3",
+        "indicator": "6.3.1",
+        "series": "EN_WWT_WWDS",
+        "series_desc": "Proportion of safely treated domestic wastewater flows (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.5",
+        "indicator": "10.5.1",
+        "series": "FI_FSI_FSANL",
+        "series_desc": "Non-performing loans to total gross loans (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.5",
+        "indicator": "10.5.1",
+        "series": "FI_FSI_FSERA",
+        "series_desc": "Return on assets (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.5",
+        "indicator": "10.5.1",
+        "series": "FI_FSI_FSKA",
+        "series_desc": "Regulatory capital to assets (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.5",
+        "indicator": "10.5.1",
+        "series": "FI_FSI_FSKNL",
+        "series_desc": "Non-performing loans net of provisions to capital (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.5",
+        "indicator": "10.5.1",
+        "series": "FI_FSI_FSKRTC",
+        "series_desc": "Regulatory Tier 1 capital to risk-weighted assets (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.5",
+        "indicator": "10.5.1",
+        "series": "FI_FSI_FSLS",
+        "series_desc": "Liquid assets to short term liabilities (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.5",
+        "indicator": "10.5.1",
+        "series": "FI_FSI_FSSNO",
+        "series_desc": "Net open position in foreign exchange to capital (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.1",
+        "series": "SH_FPL_INFMSR",
+        "series_desc": "Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.1",
+        "series": "SH_FPL_INFMCU",
+        "series_desc": "Proportion of women who make their own informed decisions regarding contraceptive use (% of women aged 15-49 years)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.1",
+        "series": "SH_FPL_INFMRH",
+        "series_desc": "Proportion of women who make their own informed decisions regarding reproductive health care (% of women aged 15-49 years)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.1",
+        "indicator": "2.1.1",
+        "series": "SN_ITK_DEFCN",
+        "series_desc": "Number of undernourish people (millions)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.4",
+        "indicator": "6.4.1",
+        "series": "ER_H2O_WUEYST",
+        "series_desc": "Water Use Efficiency (United States dollars per cubic meter)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.c",
+        "indicator": "2.c.1",
+        "series": "AG_FPA_CFPI",
+        "series_desc": "Consumer Food Price Index"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.a",
+        "indicator": "2.a.1",
+        "series": "AG_PRD_AGVAS",
+        "series_desc": "Agriculture value added share of GDP (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.a",
+        "indicator": "2.a.1",
+        "series": "AG_XPD_AGSGB",
+        "series_desc": "Agriculture share of Government Expenditure (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.4",
+        "indicator": "10.4.2",
+        "series": "SI_DST_FISP",
+        "series_desc": "Redistributive impact of fiscal policy, Gini index (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.b",
+        "indicator": "14.b.1",
+        "series": "ER_REG_SSFRAR",
+        "series_desc": "Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries (level of implementation: 1 lowest to 5 highest)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.6",
+        "indicator": "14.6.1",
+        "series": "ER_REG_UNFCIM",
+        "series_desc": "Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing (level of implementation: 1 lowest to 5 highest)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.5",
+        "indicator": "8.5.2",
+        "series": "SL_TLF_UEMDIS",
+        "series_desc": "Unemployment rate, by sex and disability (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.1",
+        "indicator": "5.1.1",
+        "series": "SG_LGL_GENEQLFP",
+        "series_desc": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.1",
+        "indicator": "5.1.1",
+        "series": "SG_LGL_GENEQVAW",
+        "series_desc": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) --  Area 2: violence against women"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.1",
+        "indicator": "5.1.1",
+        "series": "SG_LGL_GENEQEMP",
+        "series_desc": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 3: employment and economic benefits"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.1",
+        "indicator": "5.1.1",
+        "series": "SG_LGL_GENEQMAR",
+        "series_desc": "Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 4: marriage and family"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.1",
+        "indicator": "16.1.3",
+        "series": "VC_VOV_PHYL",
+        "series_desc": "Proportion of population subjected to physical violence in the previous 12 months, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.1",
+        "indicator": "16.1.3",
+        "series": "VC_VOV_ROBB",
+        "series_desc": "Proportion of population subjected to robbery in the previous 12 months, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.1",
+        "indicator": "16.1.3",
+        "series": "VC_VOV_SEXL",
+        "series_desc": "Proportion of population subjected to sexual violence in the previous 12 months, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.1",
+        "indicator": "16.1.4",
+        "series": "VC_SNS_WALN",
+        "series_desc": "Proportion of population that feel safe walking alone around the area they live (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.3",
+        "indicator": "16.3.1",
+        "series": "VC_PRR_PHYV",
+        "series_desc": "Police reporting rate for physical assault, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.3",
+        "indicator": "16.3.1",
+        "series": "VC_PRR_SEXV",
+        "series_desc": "Police reporting rate for sexual assault, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.3",
+        "indicator": "16.3.1",
+        "series": "VC_PRR_ROBB",
+        "series_desc": "Police reporting rate for robbery, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.5",
+        "indicator": "16.5.1",
+        "series": "IU_COR_BRIB",
+        "series_desc": "Prevalence rate of bribery, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.2",
+        "indicator": "16.2.2",
+        "series": "VC_HTF_DETVFL",
+        "series_desc": "Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.2",
+        "indicator": "16.2.2",
+        "series": "VC_HTF_DETVOP",
+        "series_desc": "Detected victims of human trafficking for other purposes, by age and sex (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.2",
+        "indicator": "16.2.2",
+        "series": "VC_HTF_DETVOG",
+        "series_desc": "Detected victims of human trafficking for removal of organ, by age and sex (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.2",
+        "indicator": "16.2.2",
+        "series": "VC_HTF_DETVSX",
+        "series_desc": "Detected victims of human trafficking for sexual exploitaton, by age and sex (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.2",
+        "indicator": "16.2.2",
+        "series": "VC_HTF_DETV",
+        "series_desc": "Detected victims of human trafficking, by age and sex (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.3",
+        "indicator": "2.3.1",
+        "series": "PD_AGR_SSFP",
+        "series_desc": "Productivity of small-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.3",
+        "indicator": "2.3.2",
+        "series": "SI_AGR_SSFP",
+        "series_desc": "Average income of small-scale food producers, PPP (constant 2011 international $)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.5",
+        "indicator": "5.5.1",
+        "series": "SG_GEN_LOCGELS",
+        "series_desc": "Proportion of elected seats held by women in deliberative bodies of local government (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.2",
+        "series": "VC_DSR_DDPA",
+        "series_desc": "Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.5",
+        "indicator": "11.5.2",
+        "series": "VC_DSR_DDPA",
+        "series_desc": "Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.c",
+        "indicator": "5.c.1",
+        "series": "SG_GEN_EQPWN",
+        "series_desc": "Proportion of countries with systems to track and make public allocations for gender equality and women's empowerment (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.3",
+        "indicator": "15.3.1",
+        "series": "AG_LND_DGRD",
+        "series_desc": "Proportion of land that is degraded over total land area (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.2",
+        "indicator": "17.2.1",
+        "series": "DC_ODA_TOTLGE",
+        "series_desc": "Official development assistance (ODA) from OECD-DAC countries on grant equivalent basis, by donor countries (millions of constant 2019 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.2",
+        "indicator": "17.2.1",
+        "series": "DC_ODA_TOTGGE",
+        "series_desc": "Official development assistance (ODA) as a percentage of OECD-DAC donors' GNI on grant equivalent basis, by donor countries (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "7",
+        "target": "7.a",
+        "indicator": "7.a.1",
+        "series": "EG_IFF_RANDN",
+        "series_desc": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems (millions of constant United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.5",
+        "indicator": "2.5.2",
+        "series": "ER_RSK_LBREDS",
+        "series_desc": "Proportion of local breeds classified as being at risk as a share of local breeds with known level of extinction risk (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.1",
+        "indicator": "17.1.1",
+        "series": "GR_G14_GDP",
+        "series_desc": "Total government revenue (budgetary central government) as a proportion of GDP (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.1",
+        "indicator": "17.1.2",
+        "series": "GC_GOB_TAXD",
+        "series_desc": "Proportion of domestic budget funded by domestic taxes (% of GDP)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.4",
+        "indicator": "1.4.1",
+        "series": "SP_ACS_BSRVH2O",
+        "series_desc": "Proportion of population using basic drinking water services, by location (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.4",
+        "indicator": "1.4.1",
+        "series": "SP_ACS_BSRVSAN",
+        "series_desc": "Proportion of population using basic sanitation services, by location (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.4",
+        "indicator": "1.4.2",
+        "series": "SP_LGL_LNDDOC",
+        "series_desc": "Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.4",
+        "indicator": "1.4.2",
+        "series": "SP_LGL_LNDSEC",
+        "series_desc": "Proportion of people who perceive their rights to land as secure out of total adult population, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.a",
+        "indicator": "5.a.1",
+        "series": "SP_LGL_LNDAGSEC",
+        "series_desc": "Proportion of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.b",
+        "indicator": "8.b.1",
+        "series": "SL_CPA_YEMP",
+        "series_desc": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.1",
+        "indicator": "9.1.1",
+        "series": "SP_ROD_R2KM",
+        "series_desc": "Proportion of the rural population who live within 2\u00a0km of an all-season road"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.c",
+        "indicator": "10.c.1",
+        "series": "SI_RMT_COST_BC",
+        "series_desc": "Corridor remittance costs as a proportion of the amount remitted (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.c",
+        "indicator": "10.c.1",
+        "series": "SI_RMT_COST_SC",
+        "series_desc": "SmaRT corridor remittance costs as a proportion of the amount remitted (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLCC_JC",
+        "series_desc": "Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.3",
+        "indicator": "12.3.1",
+        "series": "AG_FLS_IDX",
+        "series_desc": "Food loss percentage (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.7",
+        "indicator": "14.7.1",
+        "series": "EN_SCP_FSHGDP",
+        "series_desc": "Sustainable fisheries as a proportion of GDP"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.1",
+        "indicator": "16.1.2",
+        "series": "VC_DTH_TOCV",
+        "series_desc": "Number of conflict-related deaths (civilians) per 100,000 population (Per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.4",
+        "indicator": "16.4.2",
+        "series": "VC_ARM_SZTRACE",
+        "series_desc": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.6",
+        "indicator": "12.6.1",
+        "series": "EN_SCP_FRMN",
+        "series_desc": "Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.7",
+        "indicator": "12.7.1",
+        "series": "SG_SCP_PROCN",
+        "series_desc": "Number of countries implementing sustainable public procurement policies and action plans"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.1",
+        "indicator": "4.1.1",
+        "series": "SE_TOT_PRFL",
+        "series_desc": "Proportion of children and young people achieving a minimum proficiency level in reading and mathematics (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_NAP_ACHI",
+        "series_desc": "Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_LGP_ACHI",
+        "series_desc": "Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_TOT_GPI",
+        "series_desc": "Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_TOT_SESPI",
+        "series_desc": "Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_TOT_RUPI",
+        "series_desc": "Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.10",
+        "indicator": "17.10.1",
+        "series": "TM_TAX_WMFN",
+        "series_desc": "Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.10",
+        "indicator": "17.10.1",
+        "series": "TM_TAX_WMPS",
+        "series_desc": "Worldwide weighted tariff-average, preferential status, by type of product (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.1",
+        "indicator": "17.1.1",
+        "series": "GR_G14_XDC",
+        "series_desc": "Total government revenue, in local currency"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.7",
+        "indicator": "10.7.2",
+        "series": "SG_CPA_MIGRP",
+        "series_desc": "Proportion of countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.8",
+        "indicator": "15.8.1",
+        "series": "ER_IAS_LEGIS",
+        "series_desc": "Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.8",
+        "indicator": "15.8.1",
+        "series": "ER_IAS_NBSAP",
+        "series_desc": "National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.12",
+        "indicator": "17.12.1",
+        "series": "TM_TAX_DMFN",
+        "series_desc": "Average tariff applied by developed countries, most-favored nation status, by type of product (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.12",
+        "indicator": "17.12.1",
+        "series": "TM_TAX_DPRF",
+        "series_desc": "Average tariff applied by developed countries, preferential status, by type of product (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.1",
+        "series": "SG_HAZ_CMRMNMT",
+        "series_desc": "Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste, and other chemicals (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.1",
+        "indicator": "12.1.1",
+        "series": "SG_SCP_OTHER",
+        "series_desc": "Country with Other implementing activities for sustainable consumption and production (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.1",
+        "indicator": "9.1.2",
+        "series": "IS_RDP_PORFVOL",
+        "series_desc": "Container port traffic, maritime transport (twenty-foot equivalent units - TEUs)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "9",
+        "target": "9.1",
+        "indicator": "9.1.2",
+        "series": "IS_RDP_LULFRG",
+        "series_desc": "Freight loaded and unloaded, maritime transport (metric tons)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.9",
+        "indicator": "8.9.1",
+        "series": "ST_GDP_ZS",
+        "series_desc": "Tourism direct GDP as a proportion of total GDP (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.b",
+        "indicator": "12.b.1",
+        "series": "ST_EEV_STDACCT",
+        "series_desc": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.8",
+        "indicator": "8.8.2",
+        "series": "SL_LBR_NTLCPL",
+        "series_desc": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHE",
+        "series_desc": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC1",
+        "series_desc": "(S.1.C.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 1: Maternity Care (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC10",
+        "series_desc": "(S.4.C.10) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 10: HIV Counselling and Test Services"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC11",
+        "series_desc": "(S.4.C.11) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 11: HIV Treatment and Care Services (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC12",
+        "series_desc": "(S.4.C.12) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 12: HIV Confidentiality (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC13",
+        "series_desc": "(S.4.C.13) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 13: HPV Vaccine (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC2",
+        "series_desc": "(S.1.C.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 2: Life Saving Commodities (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC3",
+        "series_desc": "(S.1.C.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 3: Abortion"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC4",
+        "series_desc": "(S.1.C.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 4: Post-Abortion Care (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC5",
+        "series_desc": "(S.2.C.5) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 5: Contraceptive Services (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC6",
+        "series_desc": "(S.2.C.6) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 6: Contraceptive Consent (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC7",
+        "series_desc": "(S.2.C.7) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 7: Emergency Contraception (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC8",
+        "series_desc": "(S.3.C.8) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 8: Sexuality Education Curriculum Laws (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHEC9",
+        "series_desc": "(S.3.C.9) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 9: Sexuality Education Curriculum Topics (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHES1",
+        "series_desc": "(S.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 1: Maternity Care (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHES2",
+        "series_desc": "(S.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 2: Contraceptive and Family Planning (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHES3",
+        "series_desc": "(S.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 3: Sexuality Education (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.6",
+        "indicator": "5.6.2",
+        "series": "SH_LGR_ACSRHES4",
+        "series_desc": "(S.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 4: HIV and HPV (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.b",
+        "indicator": "3.b.1",
+        "series": "SH_ACS_HPV",
+        "series_desc": "Proportion of the target population with access to affordable medicines and vaccines on a sustainable basis, human papillomavirus (HPV) (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_EWT_GENV",
+        "series_desc": "Electronic waste generated (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_EWT_GENPCAP",
+        "series_desc": "Electronic waste generated, per capita (Kg)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.5",
+        "indicator": "12.5.1",
+        "series": "EN_EWT_RCYV",
+        "series_desc": "Electronic waste recycling (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.5",
+        "indicator": "12.5.1",
+        "series": "EN_EWT_RCYR",
+        "series_desc": "Electronic waste recycling, rate (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.5",
+        "indicator": "12.5.1",
+        "series": "EN_EWT_RCYPCAP",
+        "series_desc": "Electronic waste recycling, per capita (Kg)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_HAZ_GENV",
+        "series_desc": "Hazardous waste generated (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_HAZ_PCAP",
+        "series_desc": "Hazardous waste generated, per capita (Kg)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_HAZ_GENGDP",
+        "series_desc": "Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_HAZ_TREATV",
+        "series_desc": "Hazardous waste treated, by type of treatment (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_HAZ_TRTDISR",
+        "series_desc": "Hazardous waste treated or disposed, rate (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_HAZ_TRTDISV",
+        "series_desc": "Hazardous waste treated or disposed (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.9",
+        "indicator": "15.9.1",
+        "series": "ER_BDY_ABT2NP",
+        "series_desc": "Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.9",
+        "indicator": "15.9.1",
+        "series": "ER_BDY_SEEA",
+        "series_desc": "Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.a",
+        "indicator": "5.a.1",
+        "series": "SP_GNP_WNOWNS",
+        "series_desc": "Share of women among owners or rights-bearers of agricultural land, by type of tenure (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.3",
+        "indicator": "14.3.1",
+        "series": "ER_OAW_MNACD",
+        "series_desc": "Average marine acidity (pH) measured at agreed suite of representative sampling stations"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.c",
+        "indicator": "3.c.1",
+        "series": "SH_MED_HWRKDIS",
+        "series_desc": "Health worker distribution, by sex and type of occupation (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.b",
+        "indicator": "12.b.1",
+        "series": "ST_EEV_ACCSEEA",
+        "series_desc": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.b",
+        "indicator": "12.b.1",
+        "series": "ST_EEV_ACCTSA",
+        "series_desc": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLMP_LC",
+        "series_desc": "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population\u00a0with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLSP_LC",
+        "series_desc": "Number of speakers in parliament, by age and sex , Lower Chamber or Unicameral"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLCC_LC",
+        "series_desc": "Number of chairs of permanent committees, by age sex and focus of the committee, Lower Chamber or Unicameral"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.2",
+        "indicator": "1.2.2",
+        "series": "SD_MDP_MUHC",
+        "series_desc": "Proportion of population living in multidimensional poverty (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.2",
+        "indicator": "1.2.2",
+        "series": "SD_MDP_ANDI",
+        "series_desc": "Average proportion of deprivations for people multidimensionally poor (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.2",
+        "indicator": "1.2.2",
+        "series": "SD_MDP_MUHHC",
+        "series_desc": "Proportion of households living in multidimensional poverty (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.2",
+        "indicator": "1.2.2",
+        "series": "SD_MDP_CSMP",
+        "series_desc": "Proportion of children living in child-specific multidimensional poverty (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.3",
+        "indicator": "17.3.1",
+        "series": "GF_FRN_FDI",
+        "series_desc": "Foreign direct investment (FDI) inflows (millions of US dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.1",
+        "indicator": "16.1.2",
+        "series": "VC_DTH_TOCVN",
+        "series_desc": "Number of conflict-related deaths (civilians), by sex, age and cause of death (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.1",
+        "indicator": "16.1.2",
+        "series": "VC_DTH_TOCVR",
+        "series_desc": "Conflict-related death rate (civilians), by sex, age and cause of death (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.1",
+        "indicator": "4.1.2",
+        "series": "SE_TOT_CPLR",
+        "series_desc": "Completion rate, by sex, location, wealth quintile and education level (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_ALP_CPLR",
+        "series_desc": "Adjusted location parity index for completion rate, by sex, wealth quintile and education level"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_AWP_CPRA",
+        "series_desc": "Adjusted wealth parity index for completion rate, by sex, location and education level"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_AGP_CPRA",
+        "series_desc": "Adjusted gender parity index for completion rate, by location, wealth quintile and education level"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.10",
+        "indicator": "16.10.1",
+        "series": "VC_VOC_ENFDIS",
+        "series_desc": "Number of cases of enforced disappearance of human rights defenders, journalists and trade unionists (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.2",
+        "indicator": "10.2.1",
+        "series": "SI_POV_50MI",
+        "series_desc": "Proportion of people living below 50 percent of median income (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLMP_UC",
+        "series_desc": "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population\u00a0with the age of eligibility as a lower bound boundary), Upper Chamber"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLSP_UC",
+        "series_desc": "Number of speakers in parliament, by age and sex, Upper Chamber"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLCC_UC",
+        "series_desc": "Number of chairs of permanent committees, by age sex and focus of the committee, Upper Chamber"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.2",
+        "indicator": "2.2.3",
+        "series": "SH_STA_ANEM",
+        "series_desc": "Proportion of women aged 15-49 years with anaemia (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.2",
+        "indicator": "2.2.3",
+        "series": "SH_STA_ANEM_PREG",
+        "series_desc": "Proportion of women aged 15-49 years with anaemia, pregnant (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.2",
+        "indicator": "2.2.3",
+        "series": "SH_STA_ANEM_NPRG",
+        "series_desc": "Proportion of women aged 15-49 years with anaemia, non-pregnant (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "7",
+        "target": "7.b",
+        "indicator": "7.b.1",
+        "series": "EG_EGY_RNEW",
+        "series_desc": "Installed renewable\u00a0electricity-generating capacity (watts per capita)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.a",
+        "indicator": "12.a.1",
+        "series": "EG_EGY_RNEW",
+        "series_desc": "Installed renewable\u00a0electricity-generating capacity (watts per capita)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "8",
+        "target": "8.3",
+        "indicator": "8.3.1",
+        "series": "SL_ISV_IFEM",
+        "series_desc": "Proportion of informal employment, by sector and sex (ILO harmonized estimates) (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.3",
+        "indicator": "10.3.1",
+        "series": "VC_VOV_GDSD",
+        "series_desc": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.b",
+        "indicator": "16.b.1",
+        "series": "VC_VOV_GDSD",
+        "series_desc": "Proportion of population reporting having felt discriminated against, by grounds of discrimination, sex and disability (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.5",
+        "indicator": "1.5.3",
+        "series": "SG_DSR_SFDRR",
+        "series_desc": "Number of countries that reported having a National DRR Strategy which is aligned to the Sendai Framework"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.b",
+        "indicator": "11.b.1",
+        "series": "SG_DSR_SFDRR",
+        "series_desc": "Number of countries that reported having a National DRR Strategy which is aligned to the Sendai Framework"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.1",
+        "indicator": "13.1.2",
+        "series": "SG_DSR_SFDRR",
+        "series_desc": "Number of countries that reported having a National DRR Strategy which is aligned to the Sendai Framework"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.5",
+        "indicator": "3.5.1",
+        "series": "SH_SUD_ALCOL",
+        "series_desc": "Alcohol use disorders, 12-month prevalence (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.5",
+        "indicator": "3.5.1",
+        "series": "SH_SUD_TREAT",
+        "series_desc": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "5",
+        "target": "5.a",
+        "indicator": "5.a.2",
+        "series": "SG_LGL_LNDFEMOD",
+        "series_desc": "Degree to which the legal framework (including customary law) guarantees women\u2019s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.7",
+        "indicator": "10.7.2",
+        "series": "SG_CPA_MIGRS",
+        "series_desc": "Countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.1",
+        "indicator": "14.1.1",
+        "series": "EN_MAR_CHLDEV",
+        "series_desc": "Chlorophyll-a deviations, remote sensing (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.17",
+        "indicator": "17.17.1",
+        "series": "GF_COM_PPPI",
+        "series_desc": "Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.7",
+        "indicator": "10.7.4",
+        "series": "SM_POP_REFG_OR",
+        "series_desc": "Number of refugees per 100,000 population, by country of origin (per 100,000 population)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "10",
+        "target": "10.7",
+        "indicator": "10.7.3",
+        "series": "SM_DTH_MIGR",
+        "series_desc": "Total deaths and disappearances recorded during migration (number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.c",
+        "indicator": "2.c.1",
+        "series": "AG_FPA_HMFP",
+        "series_desc": "Proportion of countries recording abnormally high or moderately high food prices, according to the Indicator of Food Price Anomalies (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.a",
+        "indicator": "1.a.1",
+        "series": "DC_ODA_POVLG",
+        "series_desc": "Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.a",
+        "indicator": "1.a.1",
+        "series": "DC_ODA_POVDLG",
+        "series_desc": "Official development assistance grants for poverty reduction, by donor countries (percentage of GNI)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.a",
+        "indicator": "1.a.1",
+        "series": "DC_ODA_POVG",
+        "series_desc": "Official development assistance grants for poverty reduction (percentage of GNI)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.b",
+        "indicator": "3.b.3",
+        "series": "SH_HLF_EMED",
+        "series_desc": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.d",
+        "indicator": "3.d.2",
+        "series": "SH_BLD_MRSA",
+        "series_desc": "Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "3",
+        "target": "3.d",
+        "indicator": "3.d.2",
+        "series": "SH_BLD_ECOLI",
+        "series_desc": "Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "11",
+        "target": "11.a",
+        "indicator": "11.a.1",
+        "series": "SD_CPA_UPRDP",
+        "series_desc": "Countries that have national urban policies or regional development plans that respond to population dynamics; ensure balanced territorial development; and increase local fiscal space (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_HMWTL",
+        "series_desc": "Extent of human made wetlands (square kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_INWTL",
+        "series_desc": "Extent of inland wetlands (square kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.2",
+        "indicator": "13.2.2",
+        "series": "EN_ATM_GHGT_AIP",
+        "series_desc": "Total greenhouse gas emissions without LULUCF for Annex I Parties (Mt CO\u2082 equivalent)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.4",
+        "indicator": "1.4.2",
+        "series": "SP_LGL_LNDSTR",
+        "series_desc": "Proportion of people with secure tenure rights to land out of total adult population, by sex (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.2",
+        "indicator": "13.2.2",
+        "series": "EN_ATM_GHGT_NAIP",
+        "series_desc": "Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt CO\u2082 equivalent)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.17",
+        "indicator": "17.17.1",
+        "series": "GF_COM_PPPI_KD",
+        "series_desc": "Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_LKRV_PWAN",
+        "series_desc": "Lakes and rivers permanent water area (square kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_LKRV_PWAP",
+        "series_desc": "Lakes and rivers permanent water area (% of total land area)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_LKRV_SWAN",
+        "series_desc": "Lakes and rivers seasonal water area (square kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_LKRV_SWAP",
+        "series_desc": "Lakes and rivers seasonal water area (% of total land area)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_LKRV_PWAC",
+        "series_desc": "Lakes and rivers permanent water area change (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_LKRV_SWAC",
+        "series_desc": "Lakes and rivers seasonal water area change (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_RSRV_MNWAN",
+        "series_desc": "Reservoir minimum water area (square kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_RSRV_MNWAP",
+        "series_desc": "Reservoir minimum water area (% of total land area)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_RSRV_MXWAN",
+        "series_desc": "Reservoir maximum water area (square kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_RSRV_MXWAP",
+        "series_desc": "Reservoir maximum water area (% of total land area)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_WTLN",
+        "series_desc": "Wetlands area (square kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_WTLP",
+        "series_desc": "Wetlands area (% of total land area)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_LKW_QLTRB",
+        "series_desc": "Lake water quality turbidity (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_LKW_QLTRST",
+        "series_desc": "Lake water quality trophic state (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_MANGN",
+        "series_desc": "Mangrove area (square kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_MANGBN",
+        "series_desc": "Mangrove area baseline (square kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_MANGGN",
+        "series_desc": "Mangrove area gain (square kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_MANGGP",
+        "series_desc": "Mangrove area gain (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_MANGLN",
+        "series_desc": "Mangrove area loss (square kilometres)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_MANGLP",
+        "series_desc": "Mangrove area loss (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.6",
+        "indicator": "6.6.1",
+        "series": "EN_WBE_MANGC",
+        "series_desc": "Mangrove total area change (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.14",
+        "indicator": "17.14.1",
+        "series": "SG_CPA_SDEVP",
+        "series_desc": "Mechanisms in place to enhance policy coherence for sustainable development (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.1",
+        "indicator": "14.1.1",
+        "series": "EN_MAR_CHLANM",
+        "series_desc": "Chlorophyll-a anomaly, remote sensing (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.1",
+        "indicator": "14.1.1",
+        "series": "EN_MAR_BEALITSQ",
+        "series_desc": "Beach litter per square kilometer (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.3",
+        "indicator": "12.3.1",
+        "series": "AG_FOOD_WST_PC",
+        "series_desc": "Food waste per capita (KG)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.3",
+        "indicator": "12.3.1",
+        "series": "AG_FOOD_WST",
+        "series_desc": "Food waste (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.c",
+        "indicator": "12.c.1",
+        "series": "ER_FFS_CMPT",
+        "series_desc": "Fossil-fuel subsidies (consumption and production) (millions of constant United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.c",
+        "indicator": "12.c.1",
+        "series": "ER_FFS_CMPT_PC",
+        "series_desc": "Fossil-fuel subsidies (consumption and production) per capita (constant United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.c",
+        "indicator": "12.c.1",
+        "series": "ER_FFS_CMPT_GDP",
+        "series_desc": "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.3",
+        "indicator": "2.3.1",
+        "series": "PD_AGR_LSFP",
+        "series_desc": "Productivity of large-scale food producers (agricultural output per labour day, PPP) (constant 2011 international $)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "2",
+        "target": "2.3",
+        "indicator": "2.3.2",
+        "series": "SI_AGR_LSFP",
+        "series_desc": "Average income of large-scale food producers, PPP (constant 2011 international $)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_MWT_COLLV",
+        "series_desc": "Municipal waste collected (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_MWT_TREATR",
+        "series_desc": "Municipal waste treated, by type of treatment (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_MWT_GENV",
+        "series_desc": "Municipal waste generated (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_EWT_COLLV",
+        "series_desc": "Electronic waste collected (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_EWT_COLLPCAP",
+        "series_desc": "Electronic waste collected, per capita (KG)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_EWT_COLLR",
+        "series_desc": "Electronic waste collection rate (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.5",
+        "indicator": "12.5.1",
+        "series": "EN_MWT_RCYV",
+        "series_desc": "Municipal waste recycled (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.c",
+        "indicator": "14.c.1",
+        "series": "ER_UNCLOS_RATACC",
+        "series_desc": "Score for the ratification of and accession to UNCLOS and its two implementing agreements (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "14",
+        "target": "14.c",
+        "indicator": "14.c.1",
+        "series": "ER_UNCLOS_IMPLE",
+        "series_desc": "Score for the implementation of UNCLOS and its two implementing agreements (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLYR_LC",
+        "series_desc": "Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below)\u00a0with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLYP_LC",
+        "series_desc": "Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLYN_LC",
+        "series_desc": "Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLYR_UC",
+        "series_desc": "Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below)\u00a0with the age of eligibility as a lower bound boundary), Upper Chamber"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLYP_UC",
+        "series_desc": "Proportion of youth in parliament (age 45 or below), Upper Chamber (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "16",
+        "target": "16.7",
+        "indicator": "16.7.1",
+        "series": "SG_DMK_PARLYN_UC",
+        "series_desc": "Number of youth in parliament (age 45 or below), Upper Chamber (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.5",
+        "indicator": "17.5.1",
+        "series": "SG_CPA_SIGN_BIT",
+        "series_desc": "Number of countries with a signed bilateral investment treaty (BIT) (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.5",
+        "indicator": "17.5.1",
+        "series": "SG_CPA_INFORCE_BIT",
+        "series_desc": "Number of countries with an inforce bilateral investment treaty (BIT) (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.16",
+        "indicator": "17.16.1",
+        "series": "SG_PLN_MSTKSDG_P",
+        "series_desc": "Progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Provider (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "17",
+        "target": "17.16",
+        "indicator": "17.16.1",
+        "series": "SG_PLN_MSTKSDG_R",
+        "series_desc": "Progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Recipient (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.3",
+        "indicator": "6.3.1",
+        "series": "EN_WWT_GEN",
+        "series_desc": "Total wastewater generated (million m3/year)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.3",
+        "indicator": "6.3.1",
+        "series": "EN_WWT_TREAT",
+        "series_desc": "Total wastewater treated (million m3/year)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "6",
+        "target": "6.3",
+        "indicator": "6.3.1",
+        "series": "EN_WWT_TREATR",
+        "series_desc": "Proportion of wastewater treated, by activity and location (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.a",
+        "indicator": "13.a.1",
+        "series": "DC_FIN_CLIMB",
+        "series_desc": "Climate-specific financial support provided via bilateral, regional and other channels, by type of support (Billions of current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.a",
+        "indicator": "13.a.1",
+        "series": "DC_FIN_CLIMM",
+        "series_desc": "Climate-specific financial support provided via multilateral channels, by type of support (Billions of current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.a",
+        "indicator": "13.a.1",
+        "series": "DC_FIN_CLIMT",
+        "series_desc": "Total climate-specific financial support provided (Billions of current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.a",
+        "indicator": "13.a.1",
+        "series": "DC_FIN_GEN",
+        "series_desc": "Core/general contributions provided to multilateral institutions (Billions of current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.a",
+        "indicator": "13.a.1",
+        "series": "DC_FIN_TOT",
+        "series_desc": "Total financial support provided (Billions of current United States dollars)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.2",
+        "indicator": "13.2.1",
+        "series": "EN_NACOM_NAIP",
+        "series_desc": "Number of countries with national communications, non-Annex I Parties (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.2",
+        "indicator": "13.2.1",
+        "series": "EN_BIUREP_NAIP",
+        "series_desc": "Number of countries with biennial update reports, non-Annex I Parties (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.2",
+        "indicator": "13.2.1",
+        "series": "EN_NACOM_AIP",
+        "series_desc": "Number of countries with national communications, Annex I Parties (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.2",
+        "indicator": "13.2.1",
+        "series": "EN_BIUREP_AIP",
+        "series_desc": "Number of countries with biennial reports, Annex I Parties (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.2",
+        "indicator": "13.2.1",
+        "series": "EN_ADAP_COM",
+        "series_desc": "Number of countries with adaptation communications (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.2",
+        "indicator": "13.2.1",
+        "series": "EN_NAD_CONTR",
+        "series_desc": "Number of countries with nationally determined contributions (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.2",
+        "indicator": "13.2.1",
+        "series": "EN_NAA_PLAN",
+        "series_desc": "Number of countries with national adaptation plans (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.8",
+        "indicator": "15.8.1",
+        "series": "ER_IAS_NATBUD",
+        "series_desc": "Countries with an allocation from the national budget to manage the threat of invasive alien species\u00a0(1 = YES, 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.8",
+        "indicator": "15.8.1",
+        "series": "ER_IAS_GLOFUN",
+        "series_desc": "Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species\u00a0 management (1 = YES, 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_TOT_GPI_FS",
+        "series_desc": "Adjusted gender parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.5",
+        "indicator": "4.5.1",
+        "series": "SE_TOT_SESPI_FS",
+        "series_desc": "Adjusted low to high socio-economic parity status index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_TWT_GENV",
+        "series_desc": "Total waste generation, by activity (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.8",
+        "indicator": "15.8.1",
+        "series": "ER_IAS_NBSAPP",
+        "series_desc": "Proportion of countries with National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.8",
+        "indicator": "15.8.1",
+        "series": "ER_IAS_NATBUDP",
+        "series_desc": "Proportion of countries with allocation from the national budget to manage the threat of invasive alien species (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "15",
+        "target": "15.8",
+        "indicator": "15.8.1",
+        "series": "ER_IAS_GLOFUNP",
+        "series_desc": "Proportion of recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species\u00a0 management (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.b",
+        "indicator": "13.b.1",
+        "series": "EN_NACOM_NAIP_DV",
+        "series_desc": "Number of least developed countries and small island developing States with national communications, non-Annex I Parties (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.b",
+        "indicator": "13.b.1",
+        "series": "EN_BIUREP_NAIP_DV",
+        "series_desc": "Number of least developed countries and small island developing States with biennial update reports, non-Annex I Parties (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.b",
+        "indicator": "13.b.1",
+        "series": "EN_ADAP_COM_DV",
+        "series_desc": "Number of least developed countries and small island developing States with adaptation communications (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.b",
+        "indicator": "13.b.1",
+        "series": "EN_NAD_CONTR_DV",
+        "series_desc": "Number of least developed countries and small island developing States with nationally determined contributions (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.b",
+        "indicator": "13.b.1",
+        "series": "EN_NAA_PLAN_DV",
+        "series_desc": "Number of least developed countries and small island developing States with national adaptation plans (Number)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_HAZ_EXP",
+        "series_desc": "Hazardous waste exported, (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.4",
+        "indicator": "12.4.2",
+        "series": "EN_HAZ_IMP",
+        "series_desc": "Hazardous waste imported, (Tonnes)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "1",
+        "target": "1.2",
+        "indicator": "1.2.2",
+        "series": "SD_MDP_ANDIHH",
+        "series_desc": "Average share of weighted deprivations of total households (intensity) (%)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.7",
+        "indicator": "4.7.1",
+        "series": "SE_GCEDESD_NEP",
+        "series_desc": "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.8",
+        "indicator": "12.8.1",
+        "series": "SE_GCEDESD_NEP",
+        "series_desc": "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.3",
+        "indicator": "13.3.1",
+        "series": "SE_GCEDESD_NEP",
+        "series_desc": "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.7",
+        "indicator": "4.7.1",
+        "series": "SE_GCEDESD_CUR",
+        "series_desc": "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.8",
+        "indicator": "12.8.1",
+        "series": "SE_GCEDESD_CUR",
+        "series_desc": "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.3",
+        "indicator": "13.3.1",
+        "series": "SE_GCEDESD_CUR",
+        "series_desc": "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.7",
+        "indicator": "4.7.1",
+        "series": "SE_GCEDESD_TED",
+        "series_desc": "Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.8",
+        "indicator": "12.8.1",
+        "series": "SE_GCEDESD_TED",
+        "series_desc": "Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.3",
+        "indicator": "13.3.1",
+        "series": "SE_GCEDESD_TED",
+        "series_desc": "Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "4",
+        "target": "4.7",
+        "indicator": "4.7.1",
+        "series": "SE_GCEDESD_SAS",
+        "series_desc": "Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.8",
+        "indicator": "12.8.1",
+        "series": "SE_GCEDESD_SAS",
+        "series_desc": "Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "13",
+        "target": "13.3",
+        "indicator": "13.3.1",
+        "series": "SE_GCEDESD_SAS",
+        "series_desc": "Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.7",
+        "indicator": "12.7.1",
+        "series": "SG_SCP_PROCN_HS",
+        "series_desc": "Number of countries implementing sustainable public procurement policies and action plans at higher subnational level by level of implementation (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.7",
+        "indicator": "12.7.1",
+        "series": "SG_SCP_PROCN_LS",
+        "series_desc": "Number of countries implementing sustainable public procurement policies and action plans at lower subnational level by level of implementation (1 = YES; 0 = NO)"
+    },
+    {
+        "release": "2021.Q2.G.03",
+        "goal": "12",
+        "target": "12.1",
+        "indicator": "12.1.1",
+        "series": "SG_SCP_TOTLN",
+        "series_desc": "Number of policies, instruments and mechanism in place for sustainable consumption and production (Number)"
+    }
+]
