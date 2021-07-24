@@ -13,6 +13,13 @@ http = utils.urllib3.PoolManager()
 # Release:
 release = '2021.Q2.G.03'
 
+remove_keys = ['goal','target','indicator',
+                'series','seriesDescription','seriesCount',
+                'units', 'reporting_type']
+
+
+remove_keys2 = ['Management Level','Observation Status','Geo Info Type']
+
 #================================================================================
 # Get list of all available series in the latest release
 #================================================================================
@@ -164,7 +171,7 @@ for g_idx, g in enumerate(sdgTree):
                 
                 series_data = []
 
-                remove_keys = ['goal','target','indicator','series','seriesDescription','seriesCount' ]
+
 
                 for sd in data:
                     # Remove empty fields, as well as unnecessary metadata:
@@ -177,9 +184,13 @@ for g_idx, g in enumerate(sdgTree):
                     years = json.loads( timeSeries['years']) 
                     
                     timeSeries['years'] = [i for i in years if i['value']]  
-
+                    
+                    y2 = []
                     for y in timeSeries['years']:
                         y['year'] = int(y['year'].replace('[','').replace(']',''))
+                        y2.append({i:y[i] for i in y if i not in remove_keys2})
+                    
+                    timeSeries['years'] = y2
 
                     series_data.append(timeSeries)
 
