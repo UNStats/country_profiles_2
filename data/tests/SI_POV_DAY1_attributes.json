@@ -1,0 +1,52 @@
+[
+    {
+        "id": "Nature",
+        "codes": [
+            {
+                "code": "C",
+                "description": "Country data",
+                "sdmx": "C"
+            },
+            {
+                "code": "CA",
+                "description": "Country adjusted data",
+                "sdmx": "CA"
+            },
+            {
+                "code": "E",
+                "description": "Estimated data",
+                "sdmx": "E"
+            },
+            {
+                "code": "G",
+                "description": "Global monitoring data",
+                "sdmx": "G"
+            },
+            {
+                "code": "M",
+                "description": "Modeled data",
+                "sdmx": "M"
+            },
+            {
+                "code": "N",
+                "description": "Non-relevant",
+                "sdmx": "N"
+            },
+            {
+                "code": "NA",
+                "description": "Data nature not available",
+                "sdmx": "_X"
+            }
+        ]
+    },
+    {
+        "id": "Units",
+        "codes": [
+            {
+                "code": "PERCENT",
+                "description": "Percentage",
+                "sdmx": "PT"
+            }
+        ]
+    }
+]

@@ -7,6 +7,7 @@
 import utils
 import json
 import math
+import pandas as pd
 
 http = utils.urllib3.PoolManager()
 
@@ -19,6 +20,7 @@ remove_keys = ['goal','target','indicator',
 
 
 remove_keys2 = ['Management Level','Observation Status','Geo Info Type']
+
 
 #================================================================================
 # Get list of all available series in the latest release
@@ -179,6 +181,31 @@ for g_idx, g in enumerate(sdgTree):
                     timeSeries = {i:sd[i] for i in sd if i not in remove_keys }   
                     timeSeries = {i:timeSeries[i] for i in timeSeries if timeSeries[i] } 
 
+                    # Re-code dimensions in data using SDMX codes:
+
+                    new_ts = dict()
+                    for k,v in timeSeries.items():
+
+                        new_ts[k] = v
+
+                        for d in dimensions:
+                            if d['id'].lower()!= k:
+                                continue  
+                           #print(d['id'].lower())
+                            
+                            for code in  d['codes']:
+                                if code['code'] != v:
+                                    continue
+                                #print(f"{v=}")
+                                new_ts[k+'_code'] = code['sdmx']
+                                del(new_ts[k])
+                                new_ts[k+'_desc'] = code['description']
+
+                                #print(f"{v=}")
+                                #print('--------')
+                        
+                    timeSeries = new_ts
+
                     # Parse "years" into a list of dictionaries:
 
                     years = json.loads( timeSeries['years']) 
@@ -189,13 +216,62 @@ for g_idx, g in enumerate(sdgTree):
                     for y in timeSeries['years']:
                         y['year'] = int(y['year'].replace('[','').replace(']',''))
                         y2.append({i:y[i] for i in y if i not in remove_keys2})
+
+                    
                     
                     timeSeries['years'] = y2
 
+                    # Recode attributes usind SDMX codes:
+                    new_years = []
+                    for y in timeSeries['years']:
+                        y_new = dict()
+                        for k,v in y.items():
+                            y_new[k] = v
+                            for a in attributes:
+                                if a['id']!= k:
+                                    continue  
+                                
+                                for code in  a['codes']:
+                                    if code['code'] != v:
+                                        continue
+                                    #print(f"{v=}")
+                                    y_new[k+'_code'] = code['sdmx']
+                                    del y_new[k]
+                                    y_new[k+'_desc'] = code['description']
+                                    #print(f"{v=}")
+                                    #print('--------')
+                        new_years.append(y_new)
+                    timeSeries['years'] = new_years
+                    #To do: define time series keys and id's
+
+                    # timeSeries_keys = [i.replace('_code','') for i in list(timeSeries.keys()) and i.endswith('_code')]
+                    print(f"{list(timeSeries.keys())=}")
+                    
+                    timeSeries_keys = []
+                    for tsk in list(timeSeries.keys()):
+                        if tsk.endswith('_code'):
+                            timeSeries_keys.append(tsk.replace('_code',''))
+
+                    timeSeries_id =   '__'.join([s['code']] + [timeSeries[k+'_code'] for k in timeSeries_keys])
+                    timeSeries_keys = '__'.join(timeSeries_keys)
+                    
+                    timeSeries['timeSeries_id']=timeSeries_id
+                    timeSeries['timeSeries_keys']=timeSeries_keys
+
                     series_data.append(timeSeries)
 
-                with open('data/tests/series_data.json', 'w') as fout:
+                with open('data/tests/'+s['code']+'_attributes.json', 'w') as fout:
+                    json.dump(attributes , fout, indent=4)
+                with open('data/tests/'+s['code']+'_dimensions.json', 'w') as fout:
+                    json.dump(dimensions , fout, indent=4)
+                with open('data/tests/'+s['code']+'_data.json', 'w') as fout:
                     json.dump(series_data , fout, indent=4)
+
+
+                # TO DO:
+                #
+                # - Add descriptions
+                # - Save to flat csv file
 
 
 

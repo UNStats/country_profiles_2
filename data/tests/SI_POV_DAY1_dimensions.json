@@ -1,0 +1,732 @@
+[
+    {
+        "id": "Age",
+        "codes": [
+            {
+                "code": "<1M",
+                "description": "under 1 month old",
+                "sdmx": "M0"
+            },
+            {
+                "code": "<1Y",
+                "description": "under 1 year old",
+                "sdmx": "Y0"
+            },
+            {
+                "code": "<5Y",
+                "description": "under 5 years old",
+                "sdmx": "Y0T4"
+            },
+            {
+                "code": "<15Y",
+                "description": "under 15 years old",
+                "sdmx": "Y0T14"
+            },
+            {
+                "code": "<18Y",
+                "description": "under 18 years old",
+                "sdmx": "Y0T17"
+            },
+            {
+                "code": "ALLAGE",
+                "description": "All age ranges or no breaks by age",
+                "sdmx": "_T"
+            },
+            {
+                "code": "1-14",
+                "description": "1 to 14 years old",
+                "sdmx": "Y1T14"
+            },
+            {
+                "code": "1-17",
+                "description": "1 to 17 years old",
+                "sdmx": "Y1T17"
+            },
+            {
+                "code": "5-14",
+                "description": "5 to 14 years old",
+                "sdmx": "Y5T14"
+            },
+            {
+                "code": "5-17",
+                "description": "5 to 17 years old",
+                "sdmx": "Y5T17"
+            },
+            {
+                "code": "5+",
+                "description": "5 years old and over",
+                "sdmx": "Y_GE5"
+            },
+            {
+                "code": "6-14",
+                "description": "6 to 14 years old",
+                "sdmx": "Y6T14"
+            },
+            {
+                "code": "6-17",
+                "description": "6 to 17 years old",
+                "sdmx": "Y6T17"
+            },
+            {
+                "code": "6+",
+                "description": "6 years old and over",
+                "sdmx": "Y_GE6"
+            },
+            {
+                "code": "7-14",
+                "description": "7 to 14 years old",
+                "sdmx": "Y7T14"
+            },
+            {
+                "code": "7-17",
+                "description": "7 to 17 years old",
+                "sdmx": "Y7T17"
+            },
+            {
+                "code": "7+",
+                "description": "7 years old and over",
+                "sdmx": "Y_GE7"
+            },
+            {
+                "code": "10-14",
+                "description": "10 to 14 years old",
+                "sdmx": "Y10T14"
+            },
+            {
+                "code": "10-17",
+                "description": "10 to 17 years old",
+                "sdmx": "Y10T17"
+            },
+            {
+                "code": "10-24",
+                "description": "10 to 24 years old",
+                "sdmx": "Y10T24"
+            },
+            {
+                "code": "10-74",
+                "description": "10 to 74 years old",
+                "sdmx": "Y10T74"
+            },
+            {
+                "code": "10+",
+                "description": "10 years old and over",
+                "sdmx": "Y_GE10"
+            },
+            {
+                "code": "12-14",
+                "description": "12 to 14 years old",
+                "sdmx": "Y12T14"
+            },
+            {
+                "code": "12-17",
+                "description": "12 to 17 years old",
+                "sdmx": "Y12T17"
+            },
+            {
+                "code": "12-30",
+                "description": "12 to 30 years old",
+                "sdmx": "Y12T30"
+            },
+            {
+                "code": "12+",
+                "description": "12 years old and over",
+                "sdmx": "Y_GE12"
+            },
+            {
+                "code": "14-24",
+                "description": "14 to 24 years old",
+                "sdmx": "Y14T24"
+            },
+            {
+                "code": "14-28",
+                "description": "14 to 28 years old",
+                "sdmx": "Y14T28"
+            },
+            {
+                "code": "14-29",
+                "description": "14 to 29 years old",
+                "sdmx": "Y14T29"
+            },
+            {
+                "code": "14+",
+                "description": "14 years old and over",
+                "sdmx": "Y_GE14"
+            },
+            {
+                "code": "15-17",
+                "description": "15 to 17 years old",
+                "sdmx": "Y15T17"
+            },
+            {
+                "code": "15-19",
+                "description": "15 to 19 years old",
+                "sdmx": "Y15T19"
+            },
+            {
+                "code": "15-24",
+                "description": "15 to 24 years old",
+                "sdmx": "Y15T24"
+            },
+            {
+                "code": "15-29",
+                "description": "15 to 29 years old",
+                "sdmx": "Y15T29"
+            },
+            {
+                "code": "15-44",
+                "description": "15 to 44 years old",
+                "sdmx": "Y15T44"
+            },
+            {
+                "code": "15-49",
+                "description": "15 to 49 years old",
+                "sdmx": "Y15T49"
+            },
+            {
+                "code": "15-60",
+                "description": "15 to 60 years old",
+                "sdmx": "Y15T60"
+            },
+            {
+                "code": "15-64",
+                "description": "15 to 64 years old",
+                "sdmx": "Y15T64"
+            },
+            {
+                "code": "15-65",
+                "description": "15 to 65 years old",
+                "sdmx": "Y15T65"
+            },
+            {
+                "code": "15-70",
+                "description": "15 to 70 years old",
+                "sdmx": "Y15T70"
+            },
+            {
+                "code": "15-72",
+                "description": "15 to 72 years old",
+                "sdmx": "Y15T72"
+            },
+            {
+                "code": "15-74",
+                "description": "15 to 74 years old",
+                "sdmx": "Y15T74"
+            },
+            {
+                "code": "15-80",
+                "description": "15 to 80 years old",
+                "sdmx": "Y15T80"
+            },
+            {
+                "code": "15-84",
+                "description": "15 to 84 years old",
+                "sdmx": "Y15T84"
+            },
+            {
+                "code": "15+",
+                "description": "15 years old and over",
+                "sdmx": "Y_GE15"
+            },
+            {
+                "code": "16-24",
+                "description": "16 to 24 years old",
+                "sdmx": "Y16T24"
+            },
+            {
+                "code": "16-65",
+                "description": "16 to 65 years old",
+                "sdmx": "Y16T65"
+            },
+            {
+                "code": "16-74",
+                "description": "16 to 74 years old",
+                "sdmx": "Y16T74"
+            },
+            {
+                "code": "16+",
+                "description": "16 years old and over",
+                "sdmx": "Y_GE16"
+            },
+            {
+                "code": "18-27",
+                "description": "18 to 27 years old",
+                "sdmx": "Y18T27"
+            },
+            {
+                "code": "18-29",
+                "description": "18 to 29 years old",
+                "sdmx": "Y18T29"
+            },
+            {
+                "code": "18-35",
+                "description": "18 to 35 years old",
+                "sdmx": "Y18T35"
+            },
+            {
+                "code": "18-44",
+                "description": "18 to 44 years old",
+                "sdmx": "Y18T44"
+            },
+            {
+                "code": "18+",
+                "description": "18 years old and over",
+                "sdmx": "Y_GE18"
+            },
+            {
+                "code": "19-65",
+                "description": "19 to 65 years old",
+                "sdmx": "Y19T65"
+            },
+            {
+                "code": "20-24",
+                "description": "20 to 24 years old",
+                "sdmx": "Y20T24"
+            },
+            {
+                "code": "20-29",
+                "description": "20 to 29 years old",
+                "sdmx": "Y20T29"
+            },
+            {
+                "code": "20-30",
+                "description": "20 to 30 years old",
+                "sdmx": "Y20T30"
+            },
+            {
+                "code": "29-49",
+                "description": "20 to 49 years old",
+                "sdmx": "Y20T49"
+            },
+            {
+                "code": "20-64",
+                "description": "20 to 64 years old",
+                "sdmx": "Y20T64"
+            },
+            {
+                "code": "20-74",
+                "description": "20 to 74 years old",
+                "sdmx": "Y20T74"
+            },
+            {
+                "code": "25-29",
+                "description": "25 to 29 years old",
+                "sdmx": "Y25T29"
+            },
+            {
+                "code": "25-34",
+                "description": "25 to 34 years old",
+                "sdmx": "Y25T34"
+            },
+            {
+                "code": "25-64",
+                "description": "25 to 64 years old",
+                "sdmx": "Y25T64"
+            },
+            {
+                "code": "25+",
+                "description": "25 years old and over",
+                "sdmx": "Y_GE25"
+            },
+            {
+                "code": "30",
+                "description": "30 years old",
+                "sdmx": "Y30"
+            },
+            {
+                "code": "30-34",
+                "description": "30 to 34 years old",
+                "sdmx": "Y30T34"
+            },
+            {
+                "code": "30-39",
+                "description": "30 to 39 years old",
+                "sdmx": "Y30T39"
+            },
+            {
+                "code": "30-69",
+                "description": "30 to 69 years old",
+                "sdmx": "Y30T69"
+            },
+            {
+                "code": "30-70",
+                "description": "30 to 70 years old",
+                "sdmx": "Y30T70"
+            },
+            {
+                "code": "35",
+                "description": "35 years old",
+                "sdmx": "Y35"
+            },
+            {
+                "code": "35-39",
+                "description": "35 to 39 years old",
+                "sdmx": "Y35T39"
+            },
+            {
+                "code": "35-44",
+                "description": "35 to 44 years old",
+                "sdmx": "Y35T44"
+            },
+            {
+                "code": "35-49",
+                "description": "35 to 49 years old",
+                "sdmx": "Y35T49"
+            },
+            {
+                "code": "M36T59",
+                "description": "36 to 59 months old",
+                "sdmx": "M36T59"
+            },
+            {
+                "code": "40-44",
+                "description": "40 to 44 years old",
+                "sdmx": "Y40T44"
+            },
+            {
+                "code": "40-49",
+                "description": "40 to 49 years old",
+                "sdmx": "Y40T49"
+            },
+            {
+                "code": "45-49",
+                "description": "45 to 49 years old",
+                "sdmx": "Y45T49"
+            },
+            {
+                "code": "45-59",
+                "description": "45 to 59 years old",
+                "sdmx": "Y45T59"
+            },
+            {
+                "code": "5-9",
+                "description": "5 to 9 years old",
+                "sdmx": "Y5T9"
+            },
+            {
+                "code": "10-19",
+                "description": "10 to 19 years old",
+                "sdmx": "Y10T19"
+            },
+            {
+                "code": "50-54",
+                "description": "50 to 54 years old",
+                "sdmx": "Y50T54"
+            },
+            {
+                "code": "50-59",
+                "description": "50 to 59 years old",
+                "sdmx": "Y50T59"
+            },
+            {
+                "code": "55-59",
+                "description": "55 to 59 years old",
+                "sdmx": "Y55T59"
+            },
+            {
+                "code": "60-64",
+                "description": "60 to 64 years old",
+                "sdmx": "Y60T64"
+            },
+            {
+                "code": "60-69",
+                "description": "60 to 69 years old",
+                "sdmx": "Y60T69"
+            },
+            {
+                "code": "60+",
+                "description": "60 years old and over",
+                "sdmx": "Y_GE60"
+            },
+            {
+                "code": "65-69",
+                "description": "65 to 69 years old",
+                "sdmx": "Y65T69"
+            },
+            {
+                "code": "70-74",
+                "description": "70 to 74 years old",
+                "sdmx": "Y70T74"
+            },
+            {
+                "code": "70-79",
+                "description": "70 to 79 years old",
+                "sdmx": "Y70T79"
+            },
+            {
+                "code": "70+",
+                "description": "70 years old and over",
+                "sdmx": "Y_GE70"
+            },
+            {
+                "code": "75-79",
+                "description": "75 to 79 years old",
+                "sdmx": "Y75T79"
+            },
+            {
+                "code": "75+",
+                "description": "75 years old and over",
+                "sdmx": "Y_GE75"
+            },
+            {
+                "code": "80-84",
+                "description": "80 to 84 years old",
+                "sdmx": "Y80T84"
+            },
+            {
+                "code": "80-89",
+                "description": "80 to 89 years old",
+                "sdmx": "Y80T89"
+            },
+            {
+                "code": "80+",
+                "description": "80 years old and over",
+                "sdmx": "Y_GE80"
+            },
+            {
+                "code": "85-89",
+                "description": "85 to 89 years old",
+                "sdmx": "Y85T89"
+            },
+            {
+                "code": "85+",
+                "description": "85 years old and over",
+                "sdmx": "Y_GE85"
+            },
+            {
+                "code": "90-94",
+                "description": "90 to 94 years old",
+                "sdmx": "Y90T94"
+            },
+            {
+                "code": "90-99",
+                "description": "90 to 99 years old",
+                "sdmx": "Y90T99"
+            },
+            {
+                "code": "90+",
+                "description": "90 years old and over",
+                "sdmx": "Y_GE90"
+            },
+            {
+                "code": "95-99",
+                "description": "95 to 99 years old",
+                "sdmx": "Y95T99"
+            },
+            {
+                "code": "95+",
+                "description": "95 years old and over",
+                "sdmx": "Y_GE95"
+            },
+            {
+                "code": "100+",
+                "description": "100 years old and over",
+                "sdmx": "Y_GE100"
+            },
+            {
+                "code": "18-19",
+                "description": "18 to 19 years old",
+                "sdmx": "Y18T19"
+            },
+            {
+                "code": "<10Y",
+                "description": "under 10 years old",
+                "sdmx": "Y0T9"
+            },
+            {
+                "code": "M36T47",
+                "description": "36 to 47 months old",
+                "sdmx": "M36T47"
+            },
+            {
+                "code": "18-24",
+                "description": "18 to 24 years old",
+                "sdmx": "Y18T24"
+            },
+            {
+                "code": "18-49",
+                "description": "18 to 49 years old",
+                "sdmx": "Y18T49"
+            },
+            {
+                "code": "18-50",
+                "description": "18 to 50 years old",
+                "sdmx": "Y18T50"
+            },
+            {
+                "code": "50+",
+                "description": "50 years old and over",
+                "sdmx": "Y_GE50"
+            },
+            {
+                "code": "1-4",
+                "description": "1 to 4 years old",
+                "sdmx": "Y1T4"
+            },
+            {
+                "code": "2-14",
+                "description": "2 to 14 years old",
+                "sdmx": "Y2T14"
+            },
+            {
+                "code": "18-74",
+                "description": "18 to 74 years old",
+                "sdmx": "Y18T74"
+            },
+            {
+                "code": "30-35",
+                "description": "30 to 35 years old",
+                "sdmx": "Y30T35"
+            },
+            {
+                "code": "<8Y",
+                "description": "under 8 years old",
+                "sdmx": "Y0T7"
+            },
+            {
+                "code": "M6T59",
+                "description": "6 to 59 months old",
+                "sdmx": "M6T59"
+            },
+            {
+                "code": "<6Y",
+                "description": "under 6 years old",
+                "sdmx": "Y0T5"
+            },
+            {
+                "code": "65-74",
+                "description": "65 to 74 years old",
+                "sdmx": "Y65T74"
+            },
+            {
+                "code": "75-84",
+                "description": "75 to 84 years old",
+                "sdmx": "Y75T84"
+            },
+            {
+                "code": "_U",
+                "description": "Unknown",
+                "sdmx": "_U"
+            },
+            {
+                "code": "_X",
+                "description": "Not available",
+                "sdmx": "_X"
+            },
+            {
+                "code": "<16Y",
+                "description": "under 16 years old",
+                "sdmx": "Y0T15"
+            },
+            {
+                "code": "<=45Y",
+                "description": "under 46 years old",
+                "sdmx": "Y0T45"
+            },
+            {
+                "code": "46+",
+                "description": "46 years old and over",
+                "sdmx": "Y_GE46"
+            },
+            {
+                "code": "15-28",
+                "description": "15 to 28 years old",
+                "sdmx": "Y15T28"
+            },
+            {
+                "code": "12-24",
+                "description": "12 to 24 years old",
+                "sdmx": "Y12T24"
+            },
+            {
+                "code": "20+",
+                "description": "20 years old and over",
+                "sdmx": "Y_GE20"
+            },
+            {
+                "code": "65+",
+                "description": "65 years old and over",
+                "sdmx": "Y_GE65"
+            },
+            {
+                "code": "25-44",
+                "description": "25 to 44 years old",
+                "sdmx": "Y25T44"
+            },
+            {
+                "code": "45-54",
+                "description": "45 to 54 years old",
+                "sdmx": "Y45T54"
+            },
+            {
+                "code": "45-64",
+                "description": "45 to 64 years old",
+                "sdmx": "Y45T64"
+            },
+            {
+                "code": "55-64",
+                "description": "55 to 64 years old",
+                "sdmx": "Y55T64"
+            },
+            {
+                "code": "6-65",
+                "description": "6 to 65 years old",
+                "sdmx": "Y6T65"
+            }
+        ]
+    },
+    {
+        "id": "Location",
+        "codes": [
+            {
+                "code": "RURAL",
+                "description": "Rural",
+                "sdmx": "R"
+            },
+            {
+                "code": "ALLAREA",
+                "description": "All areas",
+                "sdmx": "_T"
+            },
+            {
+                "code": "URBAN",
+                "description": "Urban",
+                "sdmx": "U"
+            }
+        ]
+    },
+    {
+        "id": "Reporting Type",
+        "codes": [
+            {
+                "code": "N",
+                "description": "National",
+                "sdmx": "N"
+            },
+            {
+                "code": "G",
+                "description": "Global",
+                "sdmx": "G"
+            }
+        ]
+    },
+    {
+        "id": "Sex",
+        "codes": [
+            {
+                "code": "FEMALE",
+                "description": "Female",
+                "sdmx": "F"
+            },
+            {
+                "code": "MALE",
+                "description": "Male",
+                "sdmx": "M"
+            },
+            {
+                "code": "BOTHSEX",
+                "description": "Both sexes",
+                "sdmx": "_T"
+            }
+        ]
+    }
+]
