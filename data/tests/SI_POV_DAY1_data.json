@@ -364,8 +364,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 30,
+        "min_year": 1989,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "8",
@@ -480,8 +484,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 9,
+        "min_year": 1996,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "12",
@@ -524,8 +532,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 1988,
+        "max_year": 2011
     },
     {
         "geoAreaCode": "19",
@@ -1000,8 +1012,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 39,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "24",
@@ -1044,8 +1060,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2000,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "32",
@@ -1424,8 +1444,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 31,
+        "min_year": 1980,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "51",
@@ -1672,8 +1696,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 20,
+        "min_year": 1999,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "142",
@@ -2148,8 +2176,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 39,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "36",
@@ -2276,8 +2308,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 10,
+        "min_year": 1981,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "53",
@@ -2728,8 +2764,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 37,
+        "min_year": 1981,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "40",
@@ -2988,8 +3028,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 21,
+        "min_year": 1987,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "31",
@@ -3068,8 +3112,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 6,
+        "min_year": 1995,
+        "max_year": 2005
     },
     {
         "geoAreaCode": "50",
@@ -3184,8 +3232,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 9,
+        "min_year": 1983,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "112",
@@ -3456,8 +3508,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 22,
+        "min_year": 1998,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "56",
@@ -3728,8 +3784,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 22,
+        "min_year": 1985,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "84",
@@ -3808,8 +3868,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 6,
+        "min_year": 1993,
+        "max_year": 1999
     },
     {
         "geoAreaCode": "204",
@@ -3852,8 +3916,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2003,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "64",
@@ -3908,8 +3976,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 2003,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "68",
@@ -4168,8 +4240,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 21,
+        "min_year": 1992,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "70",
@@ -4224,8 +4300,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 2001,
+        "max_year": 2011
     },
     {
         "geoAreaCode": "72",
@@ -4292,8 +4372,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 5,
+        "min_year": 1985,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "76",
@@ -4720,8 +4804,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 35,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "100",
@@ -4884,8 +4972,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 13,
+        "min_year": 2006,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "854",
@@ -4952,8 +5044,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 5,
+        "min_year": 1994,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "108",
@@ -5008,8 +5104,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 1992,
+        "max_year": 2013
     },
     {
         "geoAreaCode": "132",
@@ -5052,8 +5152,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2001,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "120",
@@ -5108,8 +5212,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 1996,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "124",
@@ -5332,8 +5440,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 18,
+        "min_year": 1971,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "29",
@@ -5448,8 +5560,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 9,
+        "min_year": 1998,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "135",
@@ -5624,8 +5740,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 14,
+        "min_year": 1995,
+        "max_year": 2008
     },
     {
         "geoAreaCode": "140",
@@ -5656,8 +5776,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 1992,
+        "max_year": 2008
     },
     {
         "geoAreaCode": "13",
@@ -6132,8 +6256,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 39,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "62",
@@ -6488,8 +6616,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 29,
+        "min_year": 1981,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "143",
@@ -6640,8 +6772,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 12,
+        "min_year": 1995,
+        "max_year": 2006
     },
     {
         "geoAreaCode": "148",
@@ -6672,8 +6808,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2003,
+        "max_year": 2011
     },
     {
         "geoAreaCode": "152",
@@ -6848,8 +6988,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 14,
+        "min_year": 1987,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "156",
@@ -7024,8 +7168,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 14,
+        "min_year": 1990,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "170",
@@ -7284,8 +7432,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 21,
+        "min_year": 1992,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "174",
@@ -7316,8 +7468,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2004,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "178",
@@ -7348,8 +7504,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2005,
+        "max_year": 2011
     },
     {
         "geoAreaCode": "188",
@@ -7752,8 +7912,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 33,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "384",
@@ -7880,8 +8044,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 10,
+        "min_year": 1985,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "191",
@@ -8008,8 +8176,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 10,
+        "min_year": 2009,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "196",
@@ -8196,8 +8368,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 15,
+        "min_year": 2004,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "203",
@@ -8432,8 +8608,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 19,
+        "min_year": 1992,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "180",
@@ -8464,8 +8644,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2004,
+        "max_year": 2012
     },
     {
         "geoAreaCode": "208",
@@ -8712,8 +8896,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 20,
+        "min_year": 1987,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "514",
@@ -9164,8 +9352,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 37,
+        "min_year": 1983,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "515",
@@ -9640,8 +9832,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 39,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "262",
@@ -9696,8 +9892,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 2002,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "214",
@@ -10004,8 +10204,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 25,
+        "min_year": 1986,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "14",
@@ -10324,8 +10528,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 26,
+        "min_year": 1993,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "753",
@@ -10800,8 +11008,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 39,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "30",
@@ -11276,8 +11488,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 39,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "518",
@@ -11752,8 +11968,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 39,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "151",
@@ -12120,8 +12340,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 30,
+        "min_year": 1990,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "218",
@@ -12368,8 +12592,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 20,
+        "min_year": 1994,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "818",
@@ -12484,8 +12712,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 9,
+        "min_year": 1990,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "222",
@@ -12804,8 +13036,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 26,
+        "min_year": 1989,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "233",
@@ -13004,8 +13240,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 16,
+        "min_year": 2003,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "748",
@@ -13060,8 +13300,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 1994,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "231",
@@ -13128,8 +13372,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 5,
+        "min_year": 1995,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "150",
@@ -13520,8 +13768,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 32,
+        "min_year": 1988,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "513",
@@ -13984,8 +14236,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 38,
+        "min_year": 1982,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "242",
@@ -14028,8 +14284,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2002,
+        "max_year": 2013
     },
     {
         "geoAreaCode": "246",
@@ -14276,8 +14536,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 20,
+        "min_year": 1987,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "250",
@@ -14536,8 +14800,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 21,
+        "min_year": 1978,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "266",
@@ -14568,8 +14836,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2005,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "270",
@@ -14624,8 +14896,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 1998,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "268",
@@ -14920,8 +15196,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 24,
+        "min_year": 1996,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "276",
@@ -15180,8 +15460,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 21,
+        "min_year": 1991,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "288",
@@ -15272,8 +15556,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 7,
+        "min_year": 1987,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "300",
@@ -15496,8 +15784,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 18,
+        "min_year": 1995,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "320",
@@ -15576,8 +15868,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 6,
+        "min_year": 1986,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "324",
@@ -15644,8 +15940,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 5,
+        "min_year": 1991,
+        "max_year": 2012
     },
     {
         "geoAreaCode": "624",
@@ -15700,8 +16000,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 1991,
+        "max_year": 2010
     },
     {
         "geoAreaCode": "328",
@@ -15732,8 +16036,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 1992,
+        "max_year": 1998
     },
     {
         "geoAreaCode": "332",
@@ -15752,8 +16060,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 1,
+        "min_year": 2012,
+        "max_year": 2012
     },
     {
         "geoAreaCode": "340",
@@ -16120,8 +16432,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 30,
+        "min_year": 1989,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "348",
@@ -16308,8 +16624,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 15,
+        "min_year": 2004,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "352",
@@ -16496,8 +16816,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 15,
+        "min_year": 2003,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "356",
@@ -16588,8 +16912,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 7,
+        "min_year": 1977,
+        "max_year": 2011
     },
     {
         "geoAreaCode": "360",
@@ -16920,8 +17248,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 27,
+        "min_year": 1984,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "364",
@@ -17084,8 +17416,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 13,
+        "min_year": 1986,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "368",
@@ -17116,8 +17452,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2006,
+        "max_year": 2012
     },
     {
         "geoAreaCode": "372",
@@ -17376,8 +17716,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 21,
+        "min_year": 1987,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "376",
@@ -17516,8 +17860,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 11,
+        "min_year": 1979,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "380",
@@ -17800,8 +18148,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 23,
+        "min_year": 1986,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "388",
@@ -17892,8 +18244,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 7,
+        "min_year": 1988,
+        "max_year": 2004
     },
     {
         "geoAreaCode": "392",
@@ -17936,8 +18292,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2008,
+        "max_year": 2013
     },
     {
         "geoAreaCode": "400",
@@ -18028,8 +18388,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 7,
+        "min_year": 1986,
+        "max_year": 2010
     },
     {
         "geoAreaCode": "398",
@@ -18264,8 +18628,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 19,
+        "min_year": 1996,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "404",
@@ -18332,8 +18700,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 5,
+        "min_year": 1992,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "296",
@@ -18352,8 +18724,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 1,
+        "min_year": 2006,
+        "max_year": 2006
     },
     {
         "geoAreaCode": "417",
@@ -18600,8 +18976,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 20,
+        "min_year": 2000,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "432",
@@ -18920,8 +19300,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 26,
+        "min_year": 1993,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "418",
@@ -19000,8 +19384,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 6,
+        "min_year": 1992,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "419",
@@ -19476,8 +19864,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 39,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "428",
@@ -19664,8 +20056,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 15,
+        "min_year": 2004,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "199",
@@ -19984,8 +20380,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 26,
+        "min_year": 1993,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "422",
@@ -20004,8 +20404,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 1,
+        "min_year": 2011,
+        "max_year": 2011
     },
     {
         "geoAreaCode": "426",
@@ -20060,8 +20464,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 1986,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "430",
@@ -20104,8 +20512,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2007,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "440",
@@ -20292,8 +20704,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 15,
+        "min_year": 2004,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "442",
@@ -20552,8 +20968,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 21,
+        "min_year": 1985,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "450",
@@ -20656,8 +21076,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 8,
+        "min_year": 1980,
+        "max_year": 2012
     },
     {
         "geoAreaCode": "454",
@@ -20712,8 +21136,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 1997,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "458",
@@ -20864,8 +21292,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 12,
+        "min_year": 1984,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "462",
@@ -20908,8 +21340,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2002,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "466",
@@ -20964,8 +21400,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 1994,
+        "max_year": 2009
     },
     {
         "geoAreaCode": "470",
@@ -21128,8 +21568,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 13,
+        "min_year": 2006,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "478",
@@ -21220,8 +21664,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 7,
+        "min_year": 1987,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "480",
@@ -21264,8 +21712,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2006,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "54",
@@ -21428,8 +21880,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 13,
+        "min_year": 1993,
+        "max_year": 2012
     },
     {
         "geoAreaCode": "484",
@@ -21628,8 +22084,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 16,
+        "min_year": 1989,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "583",
@@ -21660,8 +22120,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2005,
+        "max_year": 2013
     },
     {
         "geoAreaCode": "17",
@@ -21824,8 +22288,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 13,
+        "min_year": 2002,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "496",
@@ -21952,8 +22420,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 10,
+        "min_year": 1995,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "499",
@@ -22020,8 +22492,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 5,
+        "min_year": 2012,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "504",
@@ -22100,8 +22576,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 6,
+        "min_year": 1984,
+        "max_year": 2013
     },
     {
         "geoAreaCode": "508",
@@ -22156,8 +22636,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 1996,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "104",
@@ -22188,8 +22672,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2015,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "516",
@@ -22232,8 +22720,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2003,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "520",
@@ -22252,8 +22744,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 1,
+        "min_year": 2012,
+        "max_year": 2012
     },
     {
         "geoAreaCode": "524",
@@ -22296,8 +22792,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 1995,
+        "max_year": 2010
     },
     {
         "geoAreaCode": "528",
@@ -22544,8 +23044,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 20,
+        "min_year": 1983,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "558",
@@ -22624,8 +23128,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 6,
+        "min_year": 1993,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "562",
@@ -22704,8 +23212,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 6,
+        "min_year": 1992,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "566",
@@ -22784,8 +23296,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 6,
+        "min_year": 1985,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "807",
@@ -22912,8 +23428,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 10,
+        "min_year": 2009,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "15",
@@ -23280,8 +23800,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 30,
+        "min_year": 1988,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "746",
@@ -23672,8 +24196,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 32,
+        "min_year": 1988,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "747",
@@ -24040,8 +24568,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 30,
+        "min_year": 1988,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "21",
@@ -24516,8 +25048,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 39,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "154",
@@ -24992,8 +25528,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 39,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "578",
@@ -25252,8 +25792,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 21,
+        "min_year": 1979,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "9",
@@ -25704,8 +26248,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 37,
+        "min_year": 1981,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "543",
@@ -25868,8 +26416,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 13,
+        "min_year": 1993,
+        "max_year": 2012
     },
     {
         "geoAreaCode": "586",
@@ -26032,8 +26584,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 13,
+        "min_year": 1987,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "591",
@@ -26364,8 +26920,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 27,
+        "min_year": 1979,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "598",
@@ -26396,8 +26956,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 1996,
+        "max_year": 2009
     },
     {
         "geoAreaCode": "600",
@@ -26680,8 +27244,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 23,
+        "min_year": 1990,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "604",
@@ -26964,8 +27532,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 23,
+        "min_year": 1997,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "608",
@@ -27056,8 +27628,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 7,
+        "min_year": 2000,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "616",
@@ -27244,8 +27820,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 15,
+        "min_year": 2004,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "620",
@@ -27444,8 +28024,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 16,
+        "min_year": 2003,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "410",
@@ -27524,8 +28108,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 6,
+        "min_year": 2006,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "498",
@@ -27796,8 +28384,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 22,
+        "min_year": 1997,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "642",
@@ -27960,8 +28552,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 13,
+        "min_year": 2006,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "643",
@@ -28256,8 +28852,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 24,
+        "min_year": 1993,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "646",
@@ -28324,8 +28924,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 5,
+        "min_year": 2000,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "662",
@@ -28356,8 +28960,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 1995,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "882",
@@ -28400,8 +29008,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2002,
+        "max_year": 2013
     },
     {
         "geoAreaCode": "678",
@@ -28444,8 +29056,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2000,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "686",
@@ -28512,8 +29128,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 5,
+        "min_year": 1991,
+        "max_year": 2011
     },
     {
         "geoAreaCode": "688",
@@ -28592,8 +29212,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 6,
+        "min_year": 2012,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "690",
@@ -28624,8 +29248,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2013,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "694",
@@ -28680,8 +29308,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 1989,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "703",
@@ -28856,8 +29488,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 14,
+        "min_year": 2004,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "705",
@@ -29044,8 +29680,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 15,
+        "min_year": 2004,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "722",
@@ -29112,8 +29752,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 5,
+        "min_year": 1999,
+        "max_year": 2012
     },
     {
         "geoAreaCode": "90",
@@ -29144,8 +29788,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2005,
+        "max_year": 2012
     },
     {
         "geoAreaCode": "706",
@@ -29164,8 +29812,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 1,
+        "min_year": 2017,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "710",
@@ -29256,8 +29908,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 7,
+        "min_year": 1993,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "5",
@@ -29732,8 +30388,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 39,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "728",
@@ -29764,8 +30424,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2009,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "35",
@@ -30240,8 +30904,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 39,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "18",
@@ -30584,8 +31252,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 28,
+        "min_year": 1990,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "34",
@@ -30940,8 +31612,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 29,
+        "min_year": 1981,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "39",
@@ -31392,8 +32068,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 37,
+        "min_year": 1983,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "724",
@@ -31652,8 +32332,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 21,
+        "min_year": 1980,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "144",
@@ -31756,8 +32440,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 8,
+        "min_year": 1985,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "275",
@@ -31860,8 +32548,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 8,
+        "min_year": 2004,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "202",
@@ -32216,8 +32908,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 29,
+        "min_year": 1990,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "738",
@@ -32572,8 +33268,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 29,
+        "min_year": 1990,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "729",
@@ -32604,8 +33304,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2009,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "740",
@@ -32624,8 +33328,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 1,
+        "min_year": 1999,
+        "max_year": 1999
     },
     {
         "geoAreaCode": "752",
@@ -32908,8 +33616,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 23,
+        "min_year": 1967,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "756",
@@ -33120,8 +33832,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 17,
+        "min_year": 1982,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "760",
@@ -33152,8 +33868,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 1996,
+        "max_year": 2003
     },
     {
         "geoAreaCode": "762",
@@ -33232,8 +33952,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 6,
+        "min_year": 1999,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "764",
@@ -33540,8 +34264,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 25,
+        "min_year": 1981,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "626",
@@ -33584,8 +34312,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2001,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "768",
@@ -33628,8 +34360,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2006,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "776",
@@ -33672,8 +34408,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2000,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "780",
@@ -33704,8 +34444,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 1988,
+        "max_year": 1992
     },
     {
         "geoAreaCode": "788",
@@ -33796,8 +34540,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 7,
+        "min_year": 1985,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "792",
@@ -34044,8 +34792,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 20,
+        "min_year": 1987,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "795",
@@ -34064,8 +34816,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 1,
+        "min_year": 1998,
+        "max_year": 1998
     },
     {
         "geoAreaCode": "798",
@@ -34084,8 +34840,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 1,
+        "min_year": 2010,
+        "max_year": 2010
     },
     {
         "geoAreaCode": "800",
@@ -34200,8 +34960,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 9,
+        "min_year": 1989,
+        "max_year": 2016
     },
     {
         "geoAreaCode": "804",
@@ -34472,8 +35236,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 22,
+        "min_year": 1992,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "784",
@@ -34504,8 +35272,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 2,
+        "min_year": 2013,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "826",
@@ -34824,8 +35596,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 26,
+        "min_year": 1969,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "834",
@@ -34892,8 +35668,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 5,
+        "min_year": 1991,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "840",
@@ -35272,8 +36052,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 31,
+        "min_year": 1974,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "858",
@@ -35580,8 +36364,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 25,
+        "min_year": 1992,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "860",
@@ -35636,8 +36424,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 4,
+        "min_year": 1998,
+        "max_year": 2003
     },
     {
         "geoAreaCode": "548",
@@ -35656,8 +36448,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 1,
+        "min_year": 2010,
+        "max_year": 2010
     },
     {
         "geoAreaCode": "862",
@@ -35820,8 +36616,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 13,
+        "min_year": 1981,
+        "max_year": 2006
     },
     {
         "geoAreaCode": "704",
@@ -35960,8 +36760,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 11,
+        "min_year": 1992,
+        "max_year": 2018
     },
     {
         "geoAreaCode": "11",
@@ -36364,8 +37168,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 33,
+        "min_year": 1983,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "145",
@@ -36660,8 +37468,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 24,
+        "min_year": 1993,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "485",
@@ -36944,8 +37756,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 23,
+        "min_year": 1994,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "155",
@@ -37408,8 +38224,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 38,
+        "min_year": 1982,
+        "max_year": 2019
     },
     {
         "geoAreaCode": "1",
@@ -37860,8 +38680,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 37,
+        "min_year": 1981,
+        "max_year": 2017
     },
     {
         "geoAreaCode": "887",
@@ -37904,8 +38728,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 1998,
+        "max_year": 2014
     },
     {
         "geoAreaCode": "894",
@@ -38020,8 +38848,12 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 9,
+        "min_year": 1991,
+        "max_year": 2015
     },
     {
         "geoAreaCode": "716",
@@ -38064,7 +38896,11 @@
                 "Units_desc": "Percentage"
             }
         ],
+        "n_disaggregations": 0,
         "timeSeries_id": "SI_POV_DAY1",
-        "timeSeries_keys": ""
+        "timeSeries_keys": "",
+        "n_years": 3,
+        "min_year": 2011,
+        "max_year": 2019
     }
 ]

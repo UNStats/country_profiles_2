@@ -1,0 +1,1243 @@
+geoAreaCode,geoAreaName,age_code,age_desc,sex_code,sex_desc,n_disaggregations,timeSeries_id,timeSeries_keys,n_years,min_year,max_year,min_n_years,max_n_years
+8,Albania,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+8,Albania,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+8,Albania,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+8,Albania,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+8,Albania,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+8,Albania,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+8,Albania,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+8,Albania,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+8,Albania,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+12,Algeria,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+12,Algeria,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+12,Algeria,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+12,Algeria,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+12,Algeria,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+12,Algeria,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+12,Algeria,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+12,Algeria,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+12,Algeria,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+24,Angola,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+24,Angola,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+24,Angola,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+24,Angola,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+24,Angola,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+24,Angola,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+24,Angola,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+24,Angola,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+24,Angola,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+32,Argentina,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,17,2000,2017,4,20
+32,Argentina,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,17,2000,2017,4,20
+32,Argentina,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,17,2000,2017,4,20
+32,Argentina,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,17,2000,2017,4,20
+32,Argentina,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,17,2000,2017,4,20
+32,Argentina,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,17,2000,2017,4,20
+32,Argentina,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,17,2000,2017,4,20
+32,Argentina,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,17,2000,2017,4,20
+32,Argentina,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,17,2000,2017,4,20
+51,Armenia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+51,Armenia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+51,Armenia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+51,Armenia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+51,Armenia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+51,Armenia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+51,Armenia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+51,Armenia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+51,Armenia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+53,Australia and New Zealand,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+53,Australia and New Zealand,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+53,Australia and New Zealand,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+53,Australia and New Zealand,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+53,Australia and New Zealand,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+53,Australia and New Zealand,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+53,Australia and New Zealand,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+53,Australia and New Zealand,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+53,Australia and New Zealand,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+31,Azerbaijan,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,4,2002,2005,4,20
+31,Azerbaijan,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,4,2002,2005,4,20
+31,Azerbaijan,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,4,2002,2005,4,20
+31,Azerbaijan,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,4,2002,2005,4,20
+31,Azerbaijan,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,4,2002,2005,4,20
+31,Azerbaijan,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,4,2002,2005,4,20
+31,Azerbaijan,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,4,2002,2005,4,20
+31,Azerbaijan,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,4,2002,2005,4,20
+31,Azerbaijan,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,4,2002,2005,4,20
+50,Bangladesh,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+50,Bangladesh,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+50,Bangladesh,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+50,Bangladesh,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+50,Bangladesh,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+50,Bangladesh,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+50,Bangladesh,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+50,Bangladesh,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+50,Bangladesh,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+112,Belarus,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+112,Belarus,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+112,Belarus,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+112,Belarus,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+112,Belarus,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+112,Belarus,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+112,Belarus,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+112,Belarus,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+112,Belarus,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+84,Belize,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+84,Belize,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+84,Belize,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+84,Belize,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+84,Belize,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+84,Belize,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+84,Belize,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+84,Belize,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+84,Belize,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+204,Benin,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+204,Benin,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+204,Benin,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+204,Benin,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+204,Benin,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+204,Benin,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+204,Benin,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+204,Benin,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+204,Benin,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+64,Bhutan,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,16,2000,2018,4,20
+64,Bhutan,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,16,2000,2018,4,20
+64,Bhutan,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,16,2000,2018,4,20
+64,Bhutan,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,16,2000,2018,4,20
+64,Bhutan,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,16,2000,2018,4,20
+64,Bhutan,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,16,2000,2018,4,20
+64,Bhutan,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,16,2000,2018,4,20
+64,Bhutan,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,16,2000,2018,4,20
+64,Bhutan,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,16,2000,2018,4,20
+68,Bolivia (Plurinational State of),Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+68,Bolivia (Plurinational State of),Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+68,Bolivia (Plurinational State of),Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+68,Bolivia (Plurinational State of),Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+68,Bolivia (Plurinational State of),Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+68,Bolivia (Plurinational State of),Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+68,Bolivia (Plurinational State of),Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+68,Bolivia (Plurinational State of),Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+68,Bolivia (Plurinational State of),Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+70,Bosnia and Herzegovina,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+70,Bosnia and Herzegovina,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+70,Bosnia and Herzegovina,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+70,Bosnia and Herzegovina,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+70,Bosnia and Herzegovina,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+70,Bosnia and Herzegovina,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+70,Bosnia and Herzegovina,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+70,Bosnia and Herzegovina,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+70,Bosnia and Herzegovina,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+72,Botswana,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+72,Botswana,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+72,Botswana,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+72,Botswana,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+72,Botswana,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+72,Botswana,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+72,Botswana,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+72,Botswana,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+72,Botswana,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+76,Brazil,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+76,Brazil,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+76,Brazil,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+76,Brazil,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+76,Brazil,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+76,Brazil,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+76,Brazil,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+76,Brazil,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+76,Brazil,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+854,Burkina Faso,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+854,Burkina Faso,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+854,Burkina Faso,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+854,Burkina Faso,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+854,Burkina Faso,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+854,Burkina Faso,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+854,Burkina Faso,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+854,Burkina Faso,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+854,Burkina Faso,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+108,Burundi,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+108,Burundi,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+108,Burundi,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+108,Burundi,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+108,Burundi,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+108,Burundi,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+108,Burundi,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+108,Burundi,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+108,Burundi,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+132,Cabo Verde,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+132,Cabo Verde,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+132,Cabo Verde,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+132,Cabo Verde,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+132,Cabo Verde,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+132,Cabo Verde,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+132,Cabo Verde,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+132,Cabo Verde,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+132,Cabo Verde,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+116,Cambodia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,6,2004,2011,4,20
+116,Cambodia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,6,2004,2011,4,20
+116,Cambodia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,6,2004,2011,4,20
+116,Cambodia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,6,2004,2011,4,20
+116,Cambodia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,6,2004,2011,4,20
+116,Cambodia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,6,2004,2011,4,20
+116,Cambodia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,6,2004,2011,4,20
+116,Cambodia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,6,2004,2011,4,20
+116,Cambodia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,6,2004,2011,4,20
+120,Cameroon,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+120,Cameroon,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+120,Cameroon,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+120,Cameroon,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+120,Cameroon,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+120,Cameroon,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+120,Cameroon,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+120,Cameroon,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+120,Cameroon,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+140,Central African Republic,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,13,2000,2012,4,20
+140,Central African Republic,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,13,2000,2012,4,20
+140,Central African Republic,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,13,2000,2012,4,20
+140,Central African Republic,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,13,2000,2012,4,20
+140,Central African Republic,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,13,2000,2012,4,20
+140,Central African Republic,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,13,2000,2012,4,20
+140,Central African Republic,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,13,2000,2012,4,20
+140,Central African Republic,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,13,2000,2012,4,20
+140,Central African Republic,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,13,2000,2012,4,20
+62,Central and Southern Asia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+62,Central and Southern Asia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+62,Central and Southern Asia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+62,Central and Southern Asia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+62,Central and Southern Asia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+62,Central and Southern Asia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+62,Central and Southern Asia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+62,Central and Southern Asia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+62,Central and Southern Asia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+143,Central Asia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+143,Central Asia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+143,Central Asia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+143,Central Asia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+143,Central Asia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+143,Central Asia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+143,Central Asia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+143,Central Asia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+143,Central Asia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+148,Chad,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+148,Chad,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+148,Chad,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+148,Chad,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+148,Chad,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+148,Chad,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+148,Chad,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+148,Chad,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+148,Chad,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+152,Chile,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+152,Chile,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+152,Chile,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+152,Chile,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+152,Chile,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+152,Chile,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+152,Chile,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+152,Chile,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+152,Chile,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+156,China,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+156,China,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+156,China,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+156,China,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+156,China,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+156,China,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+156,China,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+156,China,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+156,China,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+170,Colombia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+170,Colombia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+170,Colombia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+170,Colombia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+170,Colombia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+170,Colombia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+170,Colombia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+170,Colombia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+170,Colombia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+174,Comoros,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+174,Comoros,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+174,Comoros,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+174,Comoros,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+174,Comoros,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+174,Comoros,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+174,Comoros,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+174,Comoros,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+174,Comoros,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+178,Congo,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+178,Congo,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+178,Congo,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+178,Congo,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+178,Congo,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+178,Congo,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+178,Congo,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+178,Congo,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+178,Congo,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+188,Costa Rica,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+188,Costa Rica,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+188,Costa Rica,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+188,Costa Rica,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+188,Costa Rica,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+188,Costa Rica,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+188,Costa Rica,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+188,Costa Rica,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+188,Costa Rica,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+384,Côte d'Ivoire,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+384,Côte d'Ivoire,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+384,Côte d'Ivoire,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+384,Côte d'Ivoire,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+384,Côte d'Ivoire,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+384,Côte d'Ivoire,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+384,Côte d'Ivoire,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+384,Côte d'Ivoire,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+384,Côte d'Ivoire,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+180,Democratic Republic of the Congo,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+180,Democratic Republic of the Congo,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+180,Democratic Republic of the Congo,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+180,Democratic Republic of the Congo,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+180,Democratic Republic of the Congo,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+180,Democratic Republic of the Congo,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+180,Democratic Republic of the Congo,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+180,Democratic Republic of the Congo,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+180,Democratic Republic of the Congo,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+214,Dominican Republic,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+214,Dominican Republic,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+214,Dominican Republic,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+214,Dominican Republic,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+214,Dominican Republic,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+214,Dominican Republic,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+214,Dominican Republic,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+214,Dominican Republic,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+214,Dominican Republic,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+753,Eastern and South-Eastern Asia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+753,Eastern and South-Eastern Asia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+753,Eastern and South-Eastern Asia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+753,Eastern and South-Eastern Asia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+753,Eastern and South-Eastern Asia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+753,Eastern and South-Eastern Asia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+753,Eastern and South-Eastern Asia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+753,Eastern and South-Eastern Asia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+753,Eastern and South-Eastern Asia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+30,Eastern Asia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+30,Eastern Asia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+30,Eastern Asia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+30,Eastern Asia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+30,Eastern Asia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+30,Eastern Asia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+30,Eastern Asia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+30,Eastern Asia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+30,Eastern Asia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+218,Ecuador,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+218,Ecuador,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+218,Ecuador,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+218,Ecuador,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+218,Ecuador,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+218,Ecuador,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+218,Ecuador,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+218,Ecuador,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+218,Ecuador,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+818,Egypt,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+818,Egypt,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+818,Egypt,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+818,Egypt,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+818,Egypt,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+818,Egypt,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+818,Egypt,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+818,Egypt,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+818,Egypt,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+222,El Salvador,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+222,El Salvador,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+222,El Salvador,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+222,El Salvador,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+222,El Salvador,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+222,El Salvador,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+222,El Salvador,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+222,El Salvador,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+222,El Salvador,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+748,Eswatini,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+748,Eswatini,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+748,Eswatini,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+748,Eswatini,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+748,Eswatini,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+748,Eswatini,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+748,Eswatini,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+748,Eswatini,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+748,Eswatini,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+231,Ethiopia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+231,Ethiopia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+231,Ethiopia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+231,Ethiopia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+231,Ethiopia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+231,Ethiopia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+231,Ethiopia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+231,Ethiopia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+231,Ethiopia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+150,Europe,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+150,Europe,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+150,Europe,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+150,Europe,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+150,Europe,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+150,Europe,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+150,Europe,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+150,Europe,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+150,Europe,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+513,Europe and Northern America,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+513,Europe and Northern America,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+513,Europe and Northern America,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+513,Europe and Northern America,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+513,Europe and Northern America,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+513,Europe and Northern America,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+513,Europe and Northern America,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+513,Europe and Northern America,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+513,Europe and Northern America,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+242,Fiji,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+242,Fiji,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+242,Fiji,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+242,Fiji,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+242,Fiji,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+242,Fiji,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+242,Fiji,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+242,Fiji,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+242,Fiji,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+266,Gabon,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+266,Gabon,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+266,Gabon,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+266,Gabon,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+266,Gabon,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+266,Gabon,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+266,Gabon,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+266,Gabon,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+266,Gabon,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+270,Gambia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,12,2003,2018,4,20
+270,Gambia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,12,2003,2018,4,20
+270,Gambia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,12,2003,2018,4,20
+270,Gambia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,12,2003,2018,4,20
+270,Gambia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,12,2003,2018,4,20
+270,Gambia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,12,2003,2018,4,20
+270,Gambia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,12,2003,2018,4,20
+270,Gambia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,12,2003,2018,4,20
+270,Gambia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,12,2003,2018,4,20
+268,Georgia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,17,2002,2018,4,20
+268,Georgia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,17,2002,2018,4,20
+268,Georgia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,17,2002,2018,4,20
+268,Georgia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,17,2002,2018,4,20
+268,Georgia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,17,2002,2018,4,20
+268,Georgia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,17,2002,2018,4,20
+268,Georgia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,17,2002,2018,4,20
+268,Georgia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,17,2002,2018,4,20
+268,Georgia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,17,2002,2018,4,20
+288,Ghana,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+288,Ghana,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+288,Ghana,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+288,Ghana,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+288,Ghana,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+288,Ghana,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+288,Ghana,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+288,Ghana,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+288,Ghana,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+320,Guatemala,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+320,Guatemala,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+320,Guatemala,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+320,Guatemala,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+320,Guatemala,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+320,Guatemala,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+320,Guatemala,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+320,Guatemala,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+320,Guatemala,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+324,Guinea,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+324,Guinea,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+324,Guinea,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+324,Guinea,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+324,Guinea,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+324,Guinea,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+324,Guinea,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+324,Guinea,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+324,Guinea,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+624,Guinea-Bissau,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+624,Guinea-Bissau,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+624,Guinea-Bissau,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+624,Guinea-Bissau,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+624,Guinea-Bissau,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+624,Guinea-Bissau,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+624,Guinea-Bissau,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+624,Guinea-Bissau,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+624,Guinea-Bissau,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+328,Guyana,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+328,Guyana,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+328,Guyana,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+328,Guyana,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+328,Guyana,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+328,Guyana,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+328,Guyana,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+328,Guyana,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+328,Guyana,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+332,Haiti,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,7,2012,2018,4,20
+332,Haiti,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,7,2012,2018,4,20
+332,Haiti,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,7,2012,2018,4,20
+332,Haiti,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,7,2012,2018,4,20
+332,Haiti,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,7,2012,2018,4,20
+332,Haiti,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,7,2012,2018,4,20
+332,Haiti,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,7,2012,2018,4,20
+332,Haiti,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,7,2012,2018,4,20
+332,Haiti,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,7,2012,2018,4,20
+340,Honduras,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+340,Honduras,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+340,Honduras,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+340,Honduras,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+340,Honduras,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+340,Honduras,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+340,Honduras,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+340,Honduras,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+340,Honduras,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+356,India,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+356,India,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+356,India,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+356,India,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+356,India,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+356,India,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+356,India,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+356,India,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+356,India,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+360,Indonesia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+360,Indonesia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+360,Indonesia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+360,Indonesia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+360,Indonesia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+360,Indonesia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+360,Indonesia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+360,Indonesia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+360,Indonesia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+364,Iran (Islamic Republic of),Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+364,Iran (Islamic Republic of),Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+364,Iran (Islamic Republic of),Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+364,Iran (Islamic Republic of),Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+364,Iran (Islamic Republic of),Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+364,Iran (Islamic Republic of),Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+364,Iran (Islamic Republic of),Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+364,Iran (Islamic Republic of),Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+364,Iran (Islamic Republic of),Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+368,Iraq,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+368,Iraq,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+368,Iraq,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+368,Iraq,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+368,Iraq,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+368,Iraq,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+368,Iraq,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+368,Iraq,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+368,Iraq,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+388,Jamaica,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+388,Jamaica,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+388,Jamaica,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+388,Jamaica,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+388,Jamaica,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+388,Jamaica,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+388,Jamaica,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+388,Jamaica,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+388,Jamaica,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+400,Jordan,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+400,Jordan,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+400,Jordan,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+400,Jordan,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+400,Jordan,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+400,Jordan,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+400,Jordan,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+400,Jordan,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+400,Jordan,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+398,Kazakhstan,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,18,2000,2018,4,20
+398,Kazakhstan,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,18,2000,2018,4,20
+398,Kazakhstan,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,18,2000,2018,4,20
+398,Kazakhstan,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,18,2000,2018,4,20
+398,Kazakhstan,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,18,2000,2018,4,20
+398,Kazakhstan,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,18,2000,2018,4,20
+398,Kazakhstan,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,18,2000,2018,4,20
+398,Kazakhstan,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,18,2000,2018,4,20
+398,Kazakhstan,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,18,2000,2018,4,20
+404,Kenya,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+404,Kenya,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+404,Kenya,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+404,Kenya,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+404,Kenya,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+404,Kenya,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+404,Kenya,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+404,Kenya,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+404,Kenya,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+417,Kyrgyzstan,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+417,Kyrgyzstan,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+417,Kyrgyzstan,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+417,Kyrgyzstan,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+417,Kyrgyzstan,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+417,Kyrgyzstan,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+417,Kyrgyzstan,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+417,Kyrgyzstan,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+417,Kyrgyzstan,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+432,Landlocked developing countries (LLDCs),Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+432,Landlocked developing countries (LLDCs),Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+432,Landlocked developing countries (LLDCs),Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+432,Landlocked developing countries (LLDCs),Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+432,Landlocked developing countries (LLDCs),Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+432,Landlocked developing countries (LLDCs),Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+432,Landlocked developing countries (LLDCs),Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+432,Landlocked developing countries (LLDCs),Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+432,Landlocked developing countries (LLDCs),Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+418,Lao People's Democratic Republic,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+418,Lao People's Democratic Republic,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+418,Lao People's Democratic Republic,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+418,Lao People's Democratic Republic,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+418,Lao People's Democratic Republic,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+418,Lao People's Democratic Republic,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+418,Lao People's Democratic Republic,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+418,Lao People's Democratic Republic,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+418,Lao People's Democratic Republic,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+419,Latin America and the Caribbean,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+419,Latin America and the Caribbean,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+419,Latin America and the Caribbean,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+419,Latin America and the Caribbean,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+419,Latin America and the Caribbean,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+419,Latin America and the Caribbean,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+419,Latin America and the Caribbean,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+419,Latin America and the Caribbean,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+419,Latin America and the Caribbean,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+199,Least Developed Countries (LDCs),Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+199,Least Developed Countries (LDCs),Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+199,Least Developed Countries (LDCs),Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+199,Least Developed Countries (LDCs),Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+199,Least Developed Countries (LDCs),Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+199,Least Developed Countries (LDCs),Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+199,Least Developed Countries (LDCs),Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+199,Least Developed Countries (LDCs),Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+199,Least Developed Countries (LDCs),Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+422,Lebanon,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+422,Lebanon,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+422,Lebanon,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+422,Lebanon,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+422,Lebanon,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+422,Lebanon,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+422,Lebanon,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+422,Lebanon,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+422,Lebanon,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+426,Lesotho,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+426,Lesotho,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+426,Lesotho,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+426,Lesotho,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+426,Lesotho,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+426,Lesotho,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+426,Lesotho,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+426,Lesotho,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+426,Lesotho,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+430,Liberia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+430,Liberia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+430,Liberia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+430,Liberia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+430,Liberia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+430,Liberia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+430,Liberia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+430,Liberia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+430,Liberia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+450,Madagascar,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+450,Madagascar,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+450,Madagascar,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+450,Madagascar,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+450,Madagascar,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+450,Madagascar,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+450,Madagascar,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+450,Madagascar,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+450,Madagascar,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+454,Malawi,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+454,Malawi,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+454,Malawi,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+454,Malawi,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+454,Malawi,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+454,Malawi,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+454,Malawi,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+454,Malawi,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+454,Malawi,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+458,Malaysia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+458,Malaysia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+458,Malaysia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+458,Malaysia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+458,Malaysia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+458,Malaysia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+458,Malaysia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+458,Malaysia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+458,Malaysia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+462,Maldives,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+462,Maldives,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+462,Maldives,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+462,Maldives,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+462,Maldives,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+462,Maldives,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+462,Maldives,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+462,Maldives,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+462,Maldives,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+466,Mali,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+466,Mali,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+466,Mali,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+466,Mali,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+466,Mali,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+466,Mali,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+466,Mali,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+466,Mali,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+466,Mali,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+478,Mauritania,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+478,Mauritania,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+478,Mauritania,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+478,Mauritania,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+478,Mauritania,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+478,Mauritania,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+478,Mauritania,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+478,Mauritania,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+478,Mauritania,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+480,Mauritius,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+480,Mauritius,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+480,Mauritius,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+480,Mauritius,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+480,Mauritius,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+480,Mauritius,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+480,Mauritius,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+480,Mauritius,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+480,Mauritius,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+484,Mexico,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,17,2000,2016,4,20
+484,Mexico,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,17,2000,2016,4,20
+484,Mexico,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,17,2000,2016,4,20
+484,Mexico,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,17,2000,2016,4,20
+484,Mexico,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,17,2000,2016,4,20
+484,Mexico,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,17,2000,2016,4,20
+484,Mexico,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,17,2000,2016,4,20
+484,Mexico,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,17,2000,2016,4,20
+484,Mexico,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,17,2000,2016,4,20
+496,Mongolia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+496,Mongolia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+496,Mongolia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+496,Mongolia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+496,Mongolia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+496,Mongolia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+496,Mongolia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+496,Mongolia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+496,Mongolia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+499,Montenegro,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,15,2000,2014,4,20
+499,Montenegro,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,15,2000,2014,4,20
+499,Montenegro,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,15,2000,2014,4,20
+499,Montenegro,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,15,2000,2014,4,20
+499,Montenegro,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,15,2000,2014,4,20
+499,Montenegro,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,15,2000,2014,4,20
+499,Montenegro,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,15,2000,2014,4,20
+499,Montenegro,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,15,2000,2014,4,20
+499,Montenegro,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,15,2000,2014,4,20
+504,Morocco,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+504,Morocco,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+504,Morocco,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+504,Morocco,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+504,Morocco,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+504,Morocco,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+504,Morocco,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+504,Morocco,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+504,Morocco,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+508,Mozambique,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+508,Mozambique,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+508,Mozambique,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+508,Mozambique,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+508,Mozambique,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+508,Mozambique,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+508,Mozambique,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+508,Mozambique,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+508,Mozambique,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+104,Myanmar,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+104,Myanmar,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+104,Myanmar,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+104,Myanmar,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+104,Myanmar,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+104,Myanmar,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+104,Myanmar,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+104,Myanmar,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+104,Myanmar,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+516,Namibia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+516,Namibia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+516,Namibia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+516,Namibia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+516,Namibia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+516,Namibia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+516,Namibia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+516,Namibia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+516,Namibia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+524,Nepal,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+524,Nepal,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+524,Nepal,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+524,Nepal,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+524,Nepal,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+524,Nepal,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+524,Nepal,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+524,Nepal,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+524,Nepal,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+558,Nicaragua,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,6,2000,2005,4,20
+558,Nicaragua,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,6,2000,2005,4,20
+558,Nicaragua,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,6,2000,2005,4,20
+558,Nicaragua,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,6,2000,2005,4,20
+558,Nicaragua,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,6,2000,2005,4,20
+558,Nicaragua,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,6,2000,2005,4,20
+558,Nicaragua,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,6,2000,2005,4,20
+558,Nicaragua,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,6,2000,2005,4,20
+558,Nicaragua,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,6,2000,2005,4,20
+562,Niger,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+562,Niger,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+562,Niger,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+562,Niger,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+562,Niger,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+562,Niger,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+562,Niger,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+562,Niger,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+562,Niger,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+566,Nigeria,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+566,Nigeria,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+566,Nigeria,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+566,Nigeria,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+566,Nigeria,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+566,Nigeria,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+566,Nigeria,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+566,Nigeria,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+566,Nigeria,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+807,North Macedonia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,10,2009,2018,4,20
+807,North Macedonia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,10,2009,2018,4,20
+807,North Macedonia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,10,2009,2018,4,20
+807,North Macedonia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,10,2009,2018,4,20
+807,North Macedonia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,10,2009,2018,4,20
+807,North Macedonia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,10,2009,2018,4,20
+807,North Macedonia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,10,2009,2018,4,20
+807,North Macedonia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,10,2009,2018,4,20
+807,North Macedonia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,10,2009,2018,4,20
+15,Northern Africa,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+15,Northern Africa,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+15,Northern Africa,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+15,Northern Africa,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+15,Northern Africa,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+15,Northern Africa,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+15,Northern Africa,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+15,Northern Africa,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+15,Northern Africa,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+747,Northern Africa and Western Asia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+747,Northern Africa and Western Asia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+747,Northern Africa and Western Asia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+747,Northern Africa and Western Asia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+747,Northern Africa and Western Asia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+747,Northern Africa and Western Asia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+747,Northern Africa and Western Asia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+747,Northern Africa and Western Asia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+747,Northern Africa and Western Asia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+21,Northern America,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+21,Northern America,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+21,Northern America,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+21,Northern America,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+21,Northern America,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+21,Northern America,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+21,Northern America,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+21,Northern America,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+21,Northern America,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+9,Oceania,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+9,Oceania,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+9,Oceania,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+9,Oceania,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+9,Oceania,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+9,Oceania,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+9,Oceania,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+9,Oceania,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+9,Oceania,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+543,Oceania (exc. Australia and New Zealand),Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+543,Oceania (exc. Australia and New Zealand),Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+543,Oceania (exc. Australia and New Zealand),Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+543,Oceania (exc. Australia and New Zealand),Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+543,Oceania (exc. Australia and New Zealand),Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+543,Oceania (exc. Australia and New Zealand),Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+543,Oceania (exc. Australia and New Zealand),Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+543,Oceania (exc. Australia and New Zealand),Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+543,Oceania (exc. Australia and New Zealand),Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+586,Pakistan,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+586,Pakistan,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+586,Pakistan,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+586,Pakistan,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+586,Pakistan,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+586,Pakistan,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+586,Pakistan,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+586,Pakistan,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+586,Pakistan,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+591,Panama,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+591,Panama,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+591,Panama,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+591,Panama,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+591,Panama,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+591,Panama,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+591,Panama,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+591,Panama,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+591,Panama,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+598,Papua New Guinea,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+598,Papua New Guinea,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+598,Papua New Guinea,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+598,Papua New Guinea,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+598,Papua New Guinea,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+598,Papua New Guinea,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+598,Papua New Guinea,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+598,Papua New Guinea,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+598,Papua New Guinea,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+600,Paraguay,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+600,Paraguay,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+600,Paraguay,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+600,Paraguay,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+600,Paraguay,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+600,Paraguay,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+600,Paraguay,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+600,Paraguay,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+600,Paraguay,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+604,Peru,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+604,Peru,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+604,Peru,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+604,Peru,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+604,Peru,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+604,Peru,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+604,Peru,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+604,Peru,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+604,Peru,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+608,Philippines,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,16,2000,2018,4,20
+608,Philippines,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,16,2000,2018,4,20
+608,Philippines,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,16,2000,2018,4,20
+608,Philippines,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,16,2000,2018,4,20
+608,Philippines,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,16,2000,2018,4,20
+608,Philippines,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,16,2000,2018,4,20
+608,Philippines,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,16,2000,2018,4,20
+608,Philippines,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,16,2000,2018,4,20
+608,Philippines,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,16,2000,2018,4,20
+410,Republic of Korea,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+410,Republic of Korea,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+410,Republic of Korea,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+410,Republic of Korea,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+410,Republic of Korea,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+410,Republic of Korea,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+410,Republic of Korea,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+410,Republic of Korea,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+410,Republic of Korea,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+498,Republic of Moldova,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+498,Republic of Moldova,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+498,Republic of Moldova,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+498,Republic of Moldova,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+498,Republic of Moldova,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+498,Republic of Moldova,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+498,Republic of Moldova,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+498,Republic of Moldova,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+498,Republic of Moldova,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+643,Russian Federation,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+643,Russian Federation,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+643,Russian Federation,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+643,Russian Federation,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+643,Russian Federation,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+643,Russian Federation,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+643,Russian Federation,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+643,Russian Federation,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+643,Russian Federation,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+646,Rwanda,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+646,Rwanda,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+646,Rwanda,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+646,Rwanda,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+646,Rwanda,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+646,Rwanda,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+646,Rwanda,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+646,Rwanda,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+646,Rwanda,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+686,Senegal,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+686,Senegal,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+686,Senegal,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+686,Senegal,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+686,Senegal,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+686,Senegal,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+686,Senegal,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+686,Senegal,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+686,Senegal,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+688,Serbia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,15,2000,2018,4,20
+688,Serbia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,15,2000,2018,4,20
+688,Serbia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,15,2000,2018,4,20
+688,Serbia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,15,2000,2018,4,20
+688,Serbia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,15,2000,2018,4,20
+688,Serbia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,15,2000,2018,4,20
+688,Serbia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,15,2000,2018,4,20
+688,Serbia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,15,2000,2018,4,20
+688,Serbia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,15,2000,2018,4,20
+694,Sierra Leone,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+694,Sierra Leone,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+694,Sierra Leone,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+694,Sierra Leone,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+694,Sierra Leone,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+694,Sierra Leone,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+694,Sierra Leone,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+694,Sierra Leone,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+694,Sierra Leone,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+722,Small island developing States (SIDS),Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+722,Small island developing States (SIDS),Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+722,Small island developing States (SIDS),Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+722,Small island developing States (SIDS),Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+722,Small island developing States (SIDS),Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+722,Small island developing States (SIDS),Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+722,Small island developing States (SIDS),Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+722,Small island developing States (SIDS),Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+722,Small island developing States (SIDS),Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+90,Solomon Islands,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+90,Solomon Islands,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+90,Solomon Islands,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+90,Solomon Islands,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+90,Solomon Islands,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+90,Solomon Islands,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+90,Solomon Islands,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+90,Solomon Islands,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+90,Solomon Islands,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+710,South Africa,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+710,South Africa,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+710,South Africa,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+710,South Africa,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+710,South Africa,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+710,South Africa,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+710,South Africa,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+710,South Africa,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+710,South Africa,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+35,South-Eastern Asia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+35,South-Eastern Asia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+35,South-Eastern Asia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+35,South-Eastern Asia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+35,South-Eastern Asia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+35,South-Eastern Asia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+35,South-Eastern Asia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+35,South-Eastern Asia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+35,South-Eastern Asia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+34,Southern Asia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+34,Southern Asia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+34,Southern Asia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+34,Southern Asia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+34,Southern Asia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+34,Southern Asia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+34,Southern Asia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+34,Southern Asia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+34,Southern Asia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+144,Sri Lanka,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+144,Sri Lanka,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+144,Sri Lanka,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+144,Sri Lanka,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+144,Sri Lanka,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+144,Sri Lanka,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+144,Sri Lanka,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+144,Sri Lanka,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+144,Sri Lanka,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+275,State of Palestine,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+275,State of Palestine,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+275,State of Palestine,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+275,State of Palestine,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+275,State of Palestine,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+275,State of Palestine,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+275,State of Palestine,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+275,State of Palestine,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+275,State of Palestine,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+202,Sub-Saharan Africa,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+202,Sub-Saharan Africa,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+202,Sub-Saharan Africa,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+202,Sub-Saharan Africa,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+202,Sub-Saharan Africa,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+202,Sub-Saharan Africa,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+202,Sub-Saharan Africa,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+202,Sub-Saharan Africa,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+202,Sub-Saharan Africa,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+729,Sudan,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+729,Sudan,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+729,Sudan,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+729,Sudan,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+729,Sudan,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+729,Sudan,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+729,Sudan,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+729,Sudan,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+729,Sudan,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+740,Suriname,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+740,Suriname,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+740,Suriname,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+740,Suriname,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+740,Suriname,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+740,Suriname,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+740,Suriname,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+740,Suriname,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+740,Suriname,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+760,Syrian Arab Republic,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,18,2000,2018,4,20
+760,Syrian Arab Republic,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,18,2000,2018,4,20
+760,Syrian Arab Republic,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,18,2000,2018,4,20
+760,Syrian Arab Republic,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,18,2000,2018,4,20
+760,Syrian Arab Republic,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,18,2000,2018,4,20
+760,Syrian Arab Republic,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,18,2000,2018,4,20
+760,Syrian Arab Republic,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,18,2000,2018,4,20
+760,Syrian Arab Republic,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,18,2000,2018,4,20
+760,Syrian Arab Republic,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,18,2000,2018,4,20
+762,Tajikistan,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+762,Tajikistan,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+762,Tajikistan,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+762,Tajikistan,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+762,Tajikistan,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+762,Tajikistan,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+762,Tajikistan,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+762,Tajikistan,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+762,Tajikistan,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+764,Thailand,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+764,Thailand,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+764,Thailand,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+764,Thailand,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+764,Thailand,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+764,Thailand,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+764,Thailand,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+764,Thailand,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+764,Thailand,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+626,Timor-Leste,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+626,Timor-Leste,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+626,Timor-Leste,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+626,Timor-Leste,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+626,Timor-Leste,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+626,Timor-Leste,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+626,Timor-Leste,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+626,Timor-Leste,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+626,Timor-Leste,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+768,Togo,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+768,Togo,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+768,Togo,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+768,Togo,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+768,Togo,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+768,Togo,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+768,Togo,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+768,Togo,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+768,Togo,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+780,Trinidad and Tobago,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+780,Trinidad and Tobago,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+780,Trinidad and Tobago,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+780,Trinidad and Tobago,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+780,Trinidad and Tobago,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+780,Trinidad and Tobago,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+780,Trinidad and Tobago,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+780,Trinidad and Tobago,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+780,Trinidad and Tobago,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+788,Tunisia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+788,Tunisia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+788,Tunisia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+788,Tunisia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+788,Tunisia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+788,Tunisia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+788,Tunisia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+788,Tunisia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+788,Tunisia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+792,Turkey,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+792,Turkey,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+792,Turkey,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+792,Turkey,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+792,Turkey,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+792,Turkey,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+792,Turkey,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+792,Turkey,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+792,Turkey,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+795,Turkmenistan,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+795,Turkmenistan,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+795,Turkmenistan,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+795,Turkmenistan,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+795,Turkmenistan,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+795,Turkmenistan,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+795,Turkmenistan,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+795,Turkmenistan,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+795,Turkmenistan,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+800,Uganda,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+800,Uganda,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+800,Uganda,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+800,Uganda,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+800,Uganda,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+800,Uganda,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+800,Uganda,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+800,Uganda,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+800,Uganda,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+804,Ukraine,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+804,Ukraine,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+804,Ukraine,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+804,Ukraine,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+804,Ukraine,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+804,Ukraine,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+804,Ukraine,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+804,Ukraine,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+804,Ukraine,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+834,United Republic of Tanzania,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+834,United Republic of Tanzania,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+834,United Republic of Tanzania,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+834,United Republic of Tanzania,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+834,United Republic of Tanzania,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+834,United Republic of Tanzania,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+834,United Republic of Tanzania,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+834,United Republic of Tanzania,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+834,United Republic of Tanzania,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+858,Uruguay,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+858,Uruguay,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+858,Uruguay,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+858,Uruguay,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+858,Uruguay,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+858,Uruguay,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+858,Uruguay,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+858,Uruguay,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+858,Uruguay,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+860,Uzbekistan,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+860,Uzbekistan,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+860,Uzbekistan,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+860,Uzbekistan,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+860,Uzbekistan,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+860,Uzbekistan,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+860,Uzbekistan,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+860,Uzbekistan,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+860,Uzbekistan,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+862,Venezuela (Bolivarian Republic of),Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,15,2000,2014,4,20
+862,Venezuela (Bolivarian Republic of),Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,15,2000,2014,4,20
+862,Venezuela (Bolivarian Republic of),Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,15,2000,2014,4,20
+862,Venezuela (Bolivarian Republic of),Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,15,2000,2014,4,20
+862,Venezuela (Bolivarian Republic of),Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,15,2000,2014,4,20
+862,Venezuela (Bolivarian Republic of),Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,15,2000,2014,4,20
+862,Venezuela (Bolivarian Republic of),Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,15,2000,2014,4,20
+862,Venezuela (Bolivarian Republic of),Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,15,2000,2014,4,20
+862,Venezuela (Bolivarian Republic of),Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,15,2000,2014,4,20
+704,Viet Nam,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+704,Viet Nam,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+704,Viet Nam,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+704,Viet Nam,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+704,Viet Nam,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+704,Viet Nam,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+704,Viet Nam,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+704,Viet Nam,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+704,Viet Nam,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+145,Western Asia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+145,Western Asia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+145,Western Asia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+145,Western Asia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+145,Western Asia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+145,Western Asia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+145,Western Asia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+145,Western Asia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+145,Western Asia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+1,World,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,20,2000,2019,4,20
+1,World,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,20,2000,2019,4,20
+1,World,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,20,2000,2019,4,20
+1,World,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,20,2000,2019,4,20
+1,World,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,20,2000,2019,4,20
+1,World,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,20,2000,2019,4,20
+1,World,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,20,2000,2019,4,20
+1,World,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,20,2000,2019,4,20
+1,World,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,20,2000,2019,4,20
+887,Yemen,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+887,Yemen,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+887,Yemen,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+887,Yemen,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+887,Yemen,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+887,Yemen,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+887,Yemen,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+887,Yemen,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+887,Yemen,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+894,Zambia,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+894,Zambia,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+894,Zambia,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+894,Zambia,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+894,Zambia,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+894,Zambia,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+894,Zambia,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+894,Zambia,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+894,Zambia,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20
+716,Zimbabwe,Y_GE15,15 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE15___T,age__sex,19,2000,2018,4,20
+716,Zimbabwe,Y_GE15,15 years old and over,F,Female,2,SI_POV_EMP1__Y_GE15__F,age__sex,19,2000,2018,4,20
+716,Zimbabwe,Y_GE15,15 years old and over,M,Male,2,SI_POV_EMP1__Y_GE15__M,age__sex,19,2000,2018,4,20
+716,Zimbabwe,Y15T24,15 to 24 years old,_T,Both sexes,2,SI_POV_EMP1__Y15T24___T,age__sex,19,2000,2018,4,20
+716,Zimbabwe,Y15T24,15 to 24 years old,F,Female,2,SI_POV_EMP1__Y15T24__F,age__sex,19,2000,2018,4,20
+716,Zimbabwe,Y15T24,15 to 24 years old,M,Male,2,SI_POV_EMP1__Y15T24__M,age__sex,19,2000,2018,4,20
+716,Zimbabwe,Y_GE25,25 years old and over,_T,Both sexes,2,SI_POV_EMP1__Y_GE25___T,age__sex,19,2000,2018,4,20
+716,Zimbabwe,Y_GE25,25 years old and over,F,Female,2,SI_POV_EMP1__Y_GE25__F,age__sex,19,2000,2018,4,20
+716,Zimbabwe,Y_GE25,25 years old and over,M,Male,2,SI_POV_EMP1__Y_GE25__M,age__sex,19,2000,2018,4,20

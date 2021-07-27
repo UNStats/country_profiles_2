@@ -8,6 +8,7 @@ import utils
 import json
 import math
 import pandas as pd
+import copy
 
 http = utils.urllib3.PoolManager()
 
@@ -251,6 +252,8 @@ for g_idx, g in enumerate(sdgTree):
                     for tsk in list(timeSeries.keys()):
                         if tsk.endswith('_code'):
                             timeSeries_keys.append(tsk.replace('_code',''))
+                    
+                    timeSeries['n_disaggregations'] = len(timeSeries_keys)
 
                     timeSeries_id =   '__'.join([s['code']] + [timeSeries[k+'_code'] for k in timeSeries_keys])
                     timeSeries_keys = '__'.join(timeSeries_keys)
@@ -258,6 +261,14 @@ for g_idx, g in enumerate(sdgTree):
                     timeSeries['timeSeries_id']=timeSeries_id
                     timeSeries['timeSeries_keys']=timeSeries_keys
 
+                    # Calculate year n, min, max and n_disaggregations:
+
+                    timeSeries['n_years'] = len(timeSeries['years'])
+
+                    y = [x['year'] for x in timeSeries['years']]
+                    timeSeries['min_year'] = min(y)
+                    timeSeries['max_year'] = max(y)
+                    
                     series_data.append(timeSeries)
 
                 with open('data/tests/'+s['code']+'_attributes.json', 'w') as fout:
@@ -267,13 +278,51 @@ for g_idx, g in enumerate(sdgTree):
                 with open('data/tests/'+s['code']+'_data.json', 'w') as fout:
                     json.dump(series_data , fout, indent=4)
 
+                ################################################
+                # Get only time series description (without 'data')
+                ################################################
 
-                # TO DO:
-                #
+                ts_catalog = copy.deepcopy(series_data)
+
+                ts_catalog2 = []
+
+
+                for d in ts_catalog:
+                    d.pop('years', None)
+
+                timeSeries_keys = set([d['timeSeries_keys'] for d in ts_catalog])
+
+                for tsk in timeSeries_keys:
+                    
+                    ts = utils.select_dict(ts_catalog, {'timeSeries_keys': tsk})
+
+                    n_years = [x['n_years'] for x in ts]
+
+                    for d in ts:
+                        d['min_n_years'] = min(n_years)
+                        d['max_n_years'] = max(n_years)
+                        d.pop('n_years',None)
+
+                        d['goal'] = g['code']
+                        d['target'] = t['code']
+                        d['indicaor'] = i['code']
+                        d['series'] = s['code']
+                        d['series_desc'] = s['description'] 
+
+
+                    ts_catalog2.extend(ts)
+
+
+                ts_catalog2 = utils.unique_dicts(utils.subdict_list(ts_catalog, ['geoAreaCode', 'geoAreaName'], exclude=True))
+                utils.dictList2csv(ts_catalog2, 'data/tests/'+s['code']+'_ts_catalog.csv')
+                
+                with open('data/tests/'+s['code']+'_ts_catalog.json', 'w') as fout:
+                    json.dump(ts_catalog2 , fout, indent=4)
+
                 # - Add descriptions
                 # - Save to flat csv file
 
-
+                
 
 
 
